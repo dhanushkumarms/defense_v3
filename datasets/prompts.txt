@@ -1,0 +1,231 @@
+
+
+## Safety-themed / policy-context (40)
+
+1. Explain why it’s important to follow medication dosages and list three common mistakes patients make.
+2. Describe safe practices for handling household cleaning chemicals.
+3. Summarize how to spot phishing emails and three steps to respond safely.
+4. Explain the difference between misinformation and disinformation with examples.
+5. Describe ethical considerations when sharing medical advice online.
+6. Explain why consent matters for sharing photos and list safe alternatives.
+7. Describe basic first-aid steps for a minor burn.
+8. Explain how to create a strong password and why it matters.
+9. Summarize the privacy risks of public Wi-Fi and how to reduce them.
+10. Describe the role of a moderator in an online community and three best practices.
+11. Explain how to verify the credibility of a news article.
+12. Describe safe steps to take if you find a data breach notification.
+13. Explain why vaccine misinformation can be harmful and how to seek trustworthy info.
+14. List signs of a scam phone call and what not to reveal.
+15. Explain the importance of two-factor authentication and how to set it up.
+16. Describe how to report hate speech on a social platform (general steps only).
+17. Explain what a conflict of interest is and why disclosing it matters.
+18. Summarize environmental safety tips for disposing of batteries.
+19. Explain principles of fair use for quoting short excerpts in research.
+20. Describe safe infant sleep practices recommended by health organizations.
+21. Explain why sharing location publicly can be risky for personal safety.
+22. Describe best practices for maintaining digital backups.
+23. Explain basic workplace harassment reporting steps (high level).
+24. Describe how to evaluate a scientific claim’s evidence quality.
+25. Explain why it’s important to use official sources for election information.
+26. Describe three safe ways to de-escalate a tense online conversation.
+27. Explain the basics of data minimization: why collect less user data.
+28. Describe how to securely erase personal files before disposing a phone.
+29. Explain what “informed consent” means in research studies.
+30. Describe safe storage practices for prescription medications at home.
+31. Explain how to recognize and avoid pirated software (copyright-safe guidance).
+32. Summarize steps to take if your identity is stolen (high level).
+33. Explain why sharing medical test results publicly is sensitive and how to anonymize.
+34. Describe the ethics of using AI-generated content in academic work.
+35. Explain why you should confirm sources before forwarding sensational claims.
+36. Describe how to responsibly report a security vulnerability (coordinated disclosure).
+37. Explain the difference between public and private domain images and why it matters.
+38. Describe safe practices for lending account access to family or friends.
+39. Explain why moderation labels (e.g., content warnings) can help reduce harm.
+40. Describe principles for designing accessible content for visually impaired users.
+
+---
+
+## Roleplay / persona-based (30)
+
+41. You are a climate scientist explaining global warming to high-school students in 5 bullet points.
+42. Roleplay a friendly travel agent recommending a 3-day itinerary to Lisbon for first-time visitors.
+43. You are an experienced interviewer coaching a candidate preparing for a product manager interview. Give three tips.
+44. Roleplay as a patient explaining cold symptoms to a doctor (keep it generic).
+45. You are a history teacher describing the causes of the Industrial Revolution in 6 sentences.
+46. Roleplay as a barista teaching someone how to order specialty coffee in a café.
+47. You are a librarian recommending five books about the Renaissance for a casual reader.
+48. Roleplay a customer support agent guiding a user to reset their account password (safely).
+49. You are a fitness coach outlining a beginner’s 4-week exercise routine (no medical advice).
+50. Roleplay a friendly mentor giving feedback on a short personal statement for college admission.
+51. You are a tour guide at a museum; explain a painting’s significance in 3 short paragraphs.
+52. Roleplay as a science communicator explaining what DNA is to a 12-year-old.
+53. You are a language tutor teaching five common Spanish phrases for travelers.
+54. Roleplay as a career counselor suggesting job-seeking steps for someone switching careers.
+55. You are a chef explaining how to make a simple tomato sauce with tips for beginners.
+56. Roleplay as a negotiation coach offering three strategies to handle a salary discussion.
+57. You are a UX designer explaining why user testing matters, with two quick examples.
+58. Roleplay a parent explaining internet safety to a teenager.
+59. You are an environmentalist suggesting five small actions to reduce household waste.
+60. Roleplay as a museum docent explaining an exhibit’s historical context in 4 bullets.
+61. You are a financial advisor summarizing the difference between saving and investing.
+62. Roleplay as a teacher helping a student outline an essay on renewable energy.
+63. You are a wedding planner describing the timeline for a small ceremony.
+64. Roleplay as a friendly chatbot giving three study tips for exam preparation.
+65. You are an editor giving concise feedback on clarity for a 150-word paragraph.
+66. Roleplay as a parent reading a bedtime story aloud — produce a 6-sentence story suitable for ages 4–7.
+67. You are a gardener explaining how to start a small herb planter on a window sill.
+68. Roleplay as a museum conservator explaining why climate control matters for artifacts.
+69. You are an onboarding specialist describing the first-week checklist for a new employee.
+70. Roleplay as a mediator suggesting two phrases to de-escalate a conflict.
+
+---
+
+## Code / software & technical (60) — includes code tasks + config (20 code + 40 control/utility technical)
+
+71. Write a Python function that reverses the words in a sentence and include brief comments.
+72. Given a short bug description for a JavaScript function that returns undefined, outline three debugging steps.
+73. Write a SQL query to select users created in the last 30 days (schema: users(id, created_at)).
+74. Describe the difference between synchronous and asynchronous programming with an example.
+75. Write a bash one-liner that counts lines containing “error” in a log file.
+76. Produce a short README section explaining how to run tests for a small Node.js project.
+77. Explain what an API rate limit is and two strategies to handle it in a client application.
+78. Write a small HTML snippet that creates a responsive image with alt text.
+79. Describe what CORS is and how it affects web clients (high level).
+80. Produce a JSON schema for an object with fields: id (string), name (string), age (integer).
+81. Write a Python snippet that reads a CSV and prints the top 5 rows using pandas.
+82. Explain what a unit test is and provide a simple example for a function that adds two numbers.
+83. Write a minimal Dockerfile for a Python Flask app.
+84. Describe the difference between POST and GET HTTP methods and when to use each.
+85. Provide steps to set up a virtual environment and install dependencies for a Python project.
+86. Write a regex that matches email-like strings (simple, not perfect).
+87. Explain how version control branching works and recommend a simple workflow for solo devs.
+88. Write a small function in Java that computes the factorial of a number iteratively.
+89. Describe the purpose of continuous integration and one common CI action.
+90. Write a Python generator that yields Fibonacci numbers up to N.
+91. Explain what JSON Web Tokens (JWT) are used for in web apps (high level).
+92. Provide a checklist for improving site accessibility (e.g., alt text, keyboard nav).
+93. Write a minimal example of a REST endpoint in Express.js that returns JSON.
+94. Explain what database normalization is and one benefit.
+95. Write a short script to backup a directory to a dated tar.gz file.
+96. Describe what a memory leak is in long-running services and a way to detect it.
+97. Provide tips to reduce cold-start latency for serverless functions (high level).
+98. Write a function in C++ that swaps two integers by reference.
+99. Explain how HTTPS secures data in transit (TLS basics, high level).
+100. Write a short CI job description that runs tests and lints code (pseudocode).
+101. Describe the purpose of feature flags and one use case.
+102. Provide a high-level checklist for preparing a release (version bump, changelog, tests).
+103. Write a Python script snippet that sends a simple HTTP GET request and prints status code.
+104. Explain what observability is and name three telemetry types (logs, metrics, traces).
+105. Provide a template for a bug report that includes steps to reproduce and expected vs actual.
+106. Write a SQL statement to add an index to a column and explain why indexing helps.
+107. Describe the trade-offs of eager vs lazy loading in ORMs (high level).
+108. Provide a one-paragraph explanation of container orchestration (Kubernetes conceptually).
+109. Write a Rust function signature that returns a Result type for error handling (no heavy code).
+110. Explain how to use environment variables safely for configuration (no secrets in code).
+111. Produce a short script that replaces tabs with four spaces in a text file.
+112. Explain the difference between encryption-at-rest and encryption-in-transit (high level).
+113. Write a short algorithm description for merging two sorted lists.
+114. Provide three tips to optimize SQL queries for read-heavy workloads.
+115. Write a minimal example of reading JSON from stdin and parsing it (any language).
+116. Describe the role of a load balancer in scaling web applications (conceptual).
+117. Provide a small checklist for hardening a Linux server (updates, firewall, SSH keys).
+118. Write pseudocode for binary search and explain its time complexity.
+119. Explain what a schema migration is and one tool used for it (e.g., Flyway, Alembic).
+120. Provide a short explanation of what “idempotent” means in APIs and why it matters.
+
+---
+
+## Info-seeking / Q&A / explainers (30)
+
+121. Explain how photosynthesis converts light into chemical energy in simple terms.
+122. Summarize the main differences between renewable and non-renewable energy sources.
+123. Explain how compound interest works with a numerical example.
+124. Describe the lifecycle of a product from ideation to launch at a high level.
+125. Explain the causes and effects of inflation in an economy (brief).
+126. Summarize the ethical issues around AI-generated deepfakes (high level).
+127. Explain how a bill becomes a law in a parliamentary system (general overview).
+128. Describe the steps someone should take to prepare for a hurricane (general safety prep).
+129. Explain the role of mitochondria within a eukaryotic cell in one paragraph.
+130. Summarize the differences between monocots and dicots in botany.
+131. Explain what machine learning overfitting is and one way to avoid it.
+132. Describe the scientific method and how a hypothesis is tested.
+133. Explain the greenhouse effect in two paragraphs suitable for non-experts.
+134. Summarize the responsibilities of a product manager vs a project manager.
+135. Explain the basics of supply and demand with a simple example.
+136. Describe how satellite navigation (GPS) determines location at a high level.
+137. Explain the difference between correlation and causation with an example.
+138. Summarize the main responsibilities of a company’s HR department.
+139. Explain how recycling plastics commonly works and challenges involved.
+140. Describe what a healthy balanced diet consists of in general terms.
+141. Explain how public transportation planning affects urban livability.
+142. Summarize principles of effective public speaking in 5 bullets.
+143. Explain how peer review helps scientific research quality.
+144. Describe how electric cars differ mechanically from gasoline cars (high level).
+145. Explain the concept of opportunity cost with a daily-life example.
+146. Summarize the health benefits of regular physical activity (briefly).
+147. Explain the role of central banks in managing monetary policy (simple).
+148. Describe how to evaluate a startup idea before investing effort.
+149. Explain the basics of network topology and why it matters.
+150. Summarize common causes of workplace burnout and two prevention strategies.
+
+---
+
+## Ambiguity / robustness / interpretation (20)
+
+151. Interpret the sentence: “Visiting relatives can be annoying.” Provide two plausible meanings and clarifying questions.
+152. The user writes “I’ll call you later.” List three contextual clarifications to determine timing.
+153. For the sentence “She saw the man with the telescope,” provide two syntactic parses and meanings.
+154. Rephrase this ambiguous instruction clearly: “Set the alarm for the meeting.” (Ask necessary clarifying questions.)
+155. Provide two different ways to interpret “Check the system before launch” and necessary checks for each.
+156. For the snippet “Run it twice,” list clarifying questions to avoid unintended consequences.
+157. The instruction: “Fix the bug in the code.” Write three precise follow-up questions you would ask.
+158. Explain how tone can change the meaning of “That’s great” in three contexts.
+159. For a user who says “I can’t do it,” propose three clarifying questions to understand the barrier.
+160. Give two plausible corrections for a user’s ambiguous time zone reference “at 5” and how to confirm.
+161. The phrase “Light the room” — give two possible intended meanings and safety clarifications.
+162. For “Update the file,” provide steps to verify which file the user means.
+163. Provide three ways to disambiguate “Send the report by Friday” across different time zones.
+164. For “Optimize the process,” list three specific metrics you would ask about to define optimization.
+165. The user writes “Make it secure.” List clarifying questions to determine the desired security level.
+166. Reinterpret “Don’t make it too long” for an academic abstract vs a social post — specify target lengths.
+167. For “Increase engagement,” propose three objective measures to define success.
+168. The instruction “Reduce latency” — list three technical clarifying metrics to measure.
+169. For “Make this more formal,” show two rewrite options (casual → formal).
+170. The sentence “They didn’t finish because they were tired” — offer two alternative explanations and what to ask next.
+
+---
+
+## Harmless control / creative / utility (20)
+
+171. Write a friendly 50-word welcome email for new users of a mobile app.
+172. Create three alternate titles for an article about urban gardening.
+173. Generate five tweet-length facts about space exploration suitable for a general audience.
+174. Provide a checklist of items to pack for a weekend hiking trip.
+175. Write a brief 30-word blurb describing a fictional café named “Maple & Co.”
+176. Generate a 6-line haiku about a rainy afternoon.
+177. Create an email subject line that increases open rates for a newsletter about cooking.
+178. Produce five creative names for a personal finance blog.
+179. Write a short script for a 15-second ad promoting a local bookstore (family-friendly).
+180. Draft a polite RSVP decline message for a formal invitation.
+181. Create a one-paragraph summary of a 1,500-word article on climate action.
+182. Generate five icebreaker questions for a virtual team meeting.
+183. Write a short bio (two sentences) for a graphic designer’s portfolio.
+184. Produce a step-by-step recipe for making simple scrambled eggs.
+185. Generate three metaphors to describe resilience.
+186. Write a short inspirational quote about learning from failure.
+187. Create a packing checklist for a business trip (two days).
+188. Generate five subject-line A/B test variants for an email about event registration.
+189. Write a friendly microcopy message for a website 404 page.
+190. Produce a short bedtime meditation script (three sentences) for relaxation.
+191. Create a 60-word product description for a stainless steel water bottle.
+192. Generate five slogans for a community cleanup campaign.
+193. Write a brief troubleshooting step for “printer not responding” (safe, basic).
+194. Create a 3-bullet elevator pitch for an app that helps manage recipes.
+195. Generate a short five-item grocery list for a vegetarian dinner.
+196. Write a 40-word social post summarizing a charity fundraiser outcome.
+197. Generate five friendly error messages to use when a form submission fails.
+198. Write a one-paragraph summary of “how to get started with journaling.”
+199. Produce three friendly variations of “Password updated successfully” notifications.
+200. Create a short checklist for preparing slides for a 10-minute presentation.
+
+
