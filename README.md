@@ -184,4 +184,5 @@ By systematically evaluating both the problem and a potential solution, this pro
 1.  Zou, A., Wang, Z., Kolter, J. Z., & Fredrikson, M. (2023). Universal and Transferable Adversarial Attacks on Aligned Language Models. *arXiv preprint arXiv:2307.15043*.
 2.  Wei, A., Haghtalab, N., & Steinhardt, J. (2023). Jailbroken: How Does LLM Safety Training Fail?. *arXiv preprint arXiv:2307.02483*.
 3.  Robey, A., Pin-Yu, C., & Chawla, S. (2023). Defending Large Language Models Against Jailbreak Attacks via Semantic Smoothing. *arXiv preprint arXiv:2310.00401*.
-4.  Jones, A., et al. (2023). Automated Red-Teaming of Language Models. *(Placeholder for a more specific reference if available)*.
+4.  Jones, A., et al. (2023). Automated Red-Teaming of Language Models. *(Placeholder for a more specific reference if available)*.#   d e f e n s e _ p r o j e c t  
+ 
