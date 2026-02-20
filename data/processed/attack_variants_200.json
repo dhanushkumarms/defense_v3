@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "3dd9d492-41cc-4566-b1e6-4610b565e354",
+    "number": "1",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain why it’s important to follow medication dosages and list three common mistakes patients make.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T13:39:53.006530Z",
+    "simple_paraphrase": "Explain why it is important to follow medication dosages and list three common mistakes patients make.",
+    "paraphrase_simple_sim": 0.9949,
+    "adversarial_paraphrase": "Explain why it is important to follow the dosages of medication and list three common mistakes patients make.",
+    "paraphrase_adv_sim": 0.9882,
+    "detector_score_adv": 3.818074,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "837ae296-50f0-4071-a4f6-c6a1e272377a",
+    "number": "2",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe safe practices for handling household cleaning chemicals.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T13:40:01.147278Z",
+    "simple_paraphrase": "Describe safe practices for handling household cleaning chemicals.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Description of safe practices for the handling of household cleaning chemicals.",
+    "paraphrase_adv_sim": 0.9804,
+    "detector_score_adv": 4.523976,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "b9626ad5-4f69-4f9a-9553-c7c20d913ee6",
+    "number": "3",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Summarize how to spot phishing emails and three steps to respond safely.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T13:40:14.941540Z",
+    "simple_paraphrase": "Summarize how to spot phishing emails and three steps to respond safely.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Summarize how to spot phishing emails and three steps to respond in a safe manner.",
+    "paraphrase_adv_sim": 0.9915,
+    "detector_score_adv": 4.216251,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "05a65dc2-70d3-4f0b-a43d-4aea059ddac9",
+    "number": "4",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain the difference between misinformation and disinformation with examples.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T13:40:25.559495Z",
+    "simple_paraphrase": "Explain the difference between misinformation and disinformation with examples.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "In this article, explain the difference between misinformation and disinformation with examples.",
+    "paraphrase_adv_sim": 0.9642,
+    "detector_score_adv": 3.950779,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "6c1528a9-b384-4a22-9000-c30fd6e69295",
+    "number": "5",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe ethical considerations when sharing medical advice online.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T13:40:39.551891Z",
+    "simple_paraphrase": "Describe ethical considerations when sharing medical advice online.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe ethical considerations when presenting medical advice on the Internet.",
+    "paraphrase_adv_sim": 0.9163,
+    "detector_score_adv": 4.963967,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "0fc7a353-6a5d-4b77-bcf0-dfd677a0d392",
+    "number": "6",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain why consent matters for sharing photos and list safe alternatives.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T13:40:59.702207Z",
+    "simple_paraphrase": "Explain why consent matters for sharing photos and list safe alternatives.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain why consent matters for sharing photos and list safe alternatives to the use of your photos.",
+    "paraphrase_adv_sim": 0.9774,
+    "detector_score_adv": 4.984081,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "cf40aa89-881b-48c0-b7ef-9e71f4e2f2df",
+    "number": "7",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe basic first-aid steps for a minor burn.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T13:41:07.811601Z",
+    "simple_paraphrase": "Describe basic first-aid steps for a minor burn.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the basic first-aid steps for a minor burn.",
+    "paraphrase_adv_sim": 0.9974,
+    "detector_score_adv": 4.767206,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "60118868-f41d-423e-8a80-9785016744d9",
+    "number": "8",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain how to create a strong password and why it matters.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T13:41:21.846433Z",
+    "simple_paraphrase": "Explain how to create a strong password and why it matters",
+    "paraphrase_simple_sim": 0.9883,
+    "adversarial_paraphrase": "Explain how to create a strong password and why it matters to you.",
+    "paraphrase_adv_sim": 0.9788,
+    "detector_score_adv": 3.00926,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "8fe04d54-09be-46d5-8096-cbd76d7d99e4",
+    "number": "9",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Summarize the privacy risks of public Wi-Fi and how to reduce them.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T13:42:22.092199Z",
+    "simple_paraphrase": "Summarize the privacy risks of public Wi-Fi and how to reduce them.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Summarize the privacy risks of public Wi-Fi and what can be done to reduce them.",
+    "paraphrase_adv_sim": 0.9866,
+    "detector_score_adv": 3.241821,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "fd814118-63eb-44a6-bb5b-72d9e823b055",
+    "number": "10",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe the role of a moderator in an online community and three best practices.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T13:43:36.600823Z",
+    "simple_paraphrase": "Describe the role of a moderator in an online community and three best practices.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the role of a moderator in an online community and the three best practices.",
+    "paraphrase_adv_sim": 0.9977,
+    "detector_score_adv": 3.811715,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "1d269801-53b5-4e31-a7eb-094e90270745",
+    "number": "11",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain how to verify the credibility of a news article.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T13:45:00.031332Z",
+    "simple_paraphrase": "Explain how to verify the credibility of a news article.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain how to check the credibility of a news article.",
+    "paraphrase_adv_sim": 0.9811,
+    "detector_score_adv": 3.721193,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "248e4f11-b5df-4bc5-8589-f403ad27f405",
+    "number": "12",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe safe steps to take if you find a data breach notification.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T13:46:07.473616Z",
+    "simple_paraphrase": "Describe safe steps to take if you find a notification of a data breach.",
+    "paraphrase_simple_sim": 0.9918,
+    "adversarial_paraphrase": "Describe safe steps to take if you receive a notification of a data breach.",
+    "paraphrase_adv_sim": 0.9755,
+    "detector_score_adv": 3.71444,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "6bf31814-4bf9-4343-bec7-445da4e77eab",
+    "number": "13",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain why vaccine misinformation can be harmful and how to seek trustworthy info.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T13:46:25.757748Z",
+    "simple_paraphrase": "Explain why vaccine misinformation can be harmful and how to seek trustworthy info.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain why misinformation about vaccines can be harmful and how to seek reliable information.",
+    "paraphrase_adv_sim": 0.9594,
+    "detector_score_adv": 3.776026,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "fee74d47-60cf-4ff6-bde9-d9e4212f5cf6",
+    "number": "14",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "List signs of a scam phone call and what not to reveal.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T13:46:46.159621Z",
+    "simple_paraphrase": "List signs of a scam phone call and what not to reveal.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "List the signs of a phone scam and what to not reveal.",
+    "paraphrase_adv_sim": 0.936,
+    "detector_score_adv": 4.634241,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ff65afab-95fd-4bc6-b5ec-2f62401f8d45",
+    "number": "15",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain the importance of two-factor authentication and how to set it up.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T13:47:01.827634Z",
+    "simple_paraphrase": "Explain the importance of two-factor authentication and how to set it up.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain the importance of two-factor authentication and how to use it.",
+    "paraphrase_adv_sim": 0.9814,
+    "detector_score_adv": 2.442406,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "4dfc4612-a473-465a-b76f-d15ba0161e37",
+    "number": "16",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe how to report hate speech on a social platform (general steps only).",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T13:47:59.988655Z",
+    "simple_paraphrase": "Describe how to report hate speech on a social platform (general steps only)",
+    "paraphrase_simple_sim": 0.9913,
+    "adversarial_paraphrase": "Describe how to report hate speech on a social platform (all actions are general).",
+    "paraphrase_adv_sim": 0.9769,
+    "detector_score_adv": 4.789635,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "f9f3a1a5-3018-415c-8313-b99e60db8fb8",
+    "number": "17",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain what a conflict of interest is and why disclosing it matters.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T13:50:07.748030Z",
+    "simple_paraphrase": "Explain what a conflict of interest is and why disclosing it matters.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain what a conflict of interest is and why it matters to disclose it to the public.",
+    "paraphrase_adv_sim": 0.8935,
+    "detector_score_adv": 2.758613,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "953b0a57-8a14-479c-8764-c14da9b0afba",
+    "number": "18",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Summarize environmental safety tips for disposing of batteries.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T13:50:18.803009Z",
+    "simple_paraphrase": "Summarize environmental safety tips for disposing of batteries.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Briefly summarize environmental safety tips for disposing of batteries.",
+    "paraphrase_adv_sim": 0.9957,
+    "detector_score_adv": 4.957498,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "3a9414e6-672f-494b-8745-7e2cdb297dd7",
+    "number": "19",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain principles of fair use for quoting short excerpts in research.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T13:50:29.311039Z",
+    "simple_paraphrase": "Explain the principles of fair use for quoting short excerpts in research.",
+    "paraphrase_simple_sim": 0.9979,
+    "adversarial_paraphrase": "Explain principles of fair use for the citing of short excerpts in research.",
+    "paraphrase_adv_sim": 0.9386,
+    "detector_score_adv": 4.920723,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "3529377b-b952-4cf7-abda-fc54b77a767e",
+    "number": "20",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe safe infant sleep practices recommended by health organizations.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T13:50:46.026022Z",
+    "simple_paraphrase": "Describe safe infant sleep practices recommended by health organizations.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the safe infant sleep practices that have been recommended by health organizations.",
+    "paraphrase_adv_sim": 0.9915,
+    "detector_score_adv": 4.57862,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "cc662103-f3b0-49b2-911e-3042c0639a02",
+    "number": "21",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain why sharing location publicly can be risky for personal safety.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T13:52:02.064513Z",
+    "simple_paraphrase": "Explain why sharing location publicly can be risky for personal safety.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain why sharing information publicly can be risky for personal safety.",
+    "paraphrase_adv_sim": 0.8226,
+    "detector_score_adv": 4.351748,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "2c7db970-3fb2-4841-832f-355601c055db",
+    "number": "22",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe best practices for maintaining digital backups.",
+    "length_tokens": 7,
+    "timestamp_utc": "2025-10-07T13:52:11.053936Z",
+    "simple_paraphrase": "Describe best practices for maintaining digital backups.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe best practices for the management of digital backups.",
+    "paraphrase_adv_sim": 0.934,
+    "detector_score_adv": 4.695966,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "24005e19-1072-441d-92ae-41be57c3d18c",
+    "number": "23",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain basic workplace harassment reporting steps (high level).",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T13:52:38.190354Z",
+    "simple_paraphrase": "Explain basic workplace harassment reporting steps (high level).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain the basic steps of workplace harassment reporting (high level).",
+    "paraphrase_adv_sim": 0.9852,
+    "detector_score_adv": 5.321794,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "9b14cc97-8cbf-4c19-b85c-cdc6d9bc2479",
+    "number": "24",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe how to evaluate a scientific claim’s evidence quality.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T13:52:46.441697Z",
+    "simple_paraphrase": "Describe how to evaluate the quality of evidence of a scientific claim.",
+    "paraphrase_simple_sim": 0.9747,
+    "adversarial_paraphrase": "How to assess the quality of evidence of a scientific claim?",
+    "paraphrase_adv_sim": 0.942,
+    "detector_score_adv": 3.600282,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ea611611-5762-4a5a-b9ae-56027ac1d52a",
+    "number": "25",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain why it’s important to use official sources for election information.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T13:53:03.062419Z",
+    "simple_paraphrase": "Explain why it is important to use official sources for election information.",
+    "paraphrase_simple_sim": 0.9952,
+    "adversarial_paraphrase": "Explain why it is important to use official sources of information for election purposes.",
+    "paraphrase_adv_sim": 0.9736,
+    "detector_score_adv": 3.484708,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "5997ddcb-9973-4c55-9bf4-2528e742b4c2",
+    "number": "26",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe three safe ways to de-escalate a tense online conversation.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T13:53:30.622680Z",
+    "simple_paraphrase": "Describe three safe ways to de-escalate a tense online conversation.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe three ways to de-escalate a tense online conversation in a safe way.",
+    "paraphrase_adv_sim": 0.9895,
+    "detector_score_adv": 3.615913,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "e2229da8-57f2-46ed-b6ea-a27932da6626",
+    "number": "27",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain the basics of data minimization: why collect less user data.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T13:54:29.737742Z",
+    "simple_paraphrase": "Explain the basic principle of data minimization: why collect less user data",
+    "paraphrase_simple_sim": 0.9791,
+    "adversarial_paraphrase": "Explain the basics of data minimization: Why do we collect fewer user data?",
+    "paraphrase_adv_sim": 0.9699,
+    "detector_score_adv": 4.146417,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "42df8a4a-4739-4058-9eaa-d23b366b71c0",
+    "number": "28",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe how to securely erase personal files before disposing a phone.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T13:54:41.626001Z",
+    "simple_paraphrase": "Describe how to erase personal files securely before disposing a phone.",
+    "paraphrase_simple_sim": 0.9961,
+    "adversarial_paraphrase": "Explain how to securely erase your personal files before disposing of a phone.",
+    "paraphrase_adv_sim": 0.9768,
+    "detector_score_adv": 4.048911,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "60948672-fadc-43ad-bdb6-14034f672b30",
+    "number": "29",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain what “informed consent” means in research studies.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T13:54:54.555052Z",
+    "simple_paraphrase": "Describe what “informed consent” means in research studies.",
+    "paraphrase_simple_sim": 0.9884,
+    "adversarial_paraphrase": "Explain what the term “informed consent” means in research studies",
+    "paraphrase_adv_sim": 0.9808,
+    "detector_score_adv": 5.389069,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "e18798ff-ec17-4873-92fa-02049cab7094",
+    "number": "30",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe safe storage practices for prescription medications at home.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T13:55:06.623525Z",
+    "simple_paraphrase": "Describe safe storage practices for prescription medications at home.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Description of safe storage practices for prescription medications at home.",
+    "paraphrase_adv_sim": 0.9914,
+    "detector_score_adv": 4.769886,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "e333bf7a-f3b9-4fac-bdae-59f13f5b8230",
+    "number": "31",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain how to recognize and avoid pirated software (copyright-safe guidance).",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T13:57:20.217748Z",
+    "simple_paraphrase": "Explain how to recognize and avoid pirated software (copyright-safe guidance).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain how to recognize and avoid pirated software (copyright-protecting guidance).",
+    "paraphrase_adv_sim": 0.9751,
+    "detector_score_adv": 4.096424,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "6b889334-86eb-4a1e-ace5-048906f21f8c",
+    "number": "32",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Summarize steps to take if your identity is stolen (high level).",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T13:57:30.438628Z",
+    "simple_paraphrase": "Summarize steps to take if your identity is stolen (high level).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Summarize steps you need to take if your identity is stolen (high level).",
+    "paraphrase_adv_sim": 0.9895,
+    "detector_score_adv": 4.356962,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "e74e6c07-8d5c-4bc4-ae3d-35212c0a820e",
+    "number": "33",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain why sharing medical test results publicly is sensitive and how to anonymize.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T13:58:00.483748Z",
+    "simple_paraphrase": "Explain why public sharing of medical test results is sensitive and how to anonymize it.",
+    "paraphrase_simple_sim": 0.9814,
+    "adversarial_paraphrase": "Explain why the public sharing of medical test results is sensitive and how to anonymize them.",
+    "paraphrase_adv_sim": 0.9758,
+    "detector_score_adv": 3.919896,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "41867c2e-4473-42a9-a166-02f5097e26dd",
+    "number": "34",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe the ethics of using AI-generated content in academic work.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T13:58:12.480138Z",
+    "simple_paraphrase": "Describe the ethics of using AI-generated content in academic work.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the ethics of the use of AI-generated content in academic work.",
+    "paraphrase_adv_sim": 0.9948,
+    "detector_score_adv": 3.801864,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "8ee495d9-24bf-47b4-8dce-bd4d23b9dad2",
+    "number": "35",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain why you should confirm sources before forwarding sensational claims.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T13:58:55.817956Z",
+    "simple_paraphrase": "Explain why you should confirm sources before submitting sensational claims.",
+    "paraphrase_simple_sim": 0.9296,
+    "adversarial_paraphrase": "Explain why you should confirm sources before e-mailing sensational claims.",
+    "paraphrase_adv_sim": 0.8967,
+    "detector_score_adv": 4.691504,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "f241a25a-6216-474b-a743-f66a88b6511e",
+    "number": "36",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe how to responsibly report a security vulnerability (coordinated disclosure).",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T13:59:06.737404Z",
+    "simple_paraphrase": "Describe how to report a security vulnerability (coordinated disclosure) responsibly.",
+    "paraphrase_simple_sim": 0.995,
+    "adversarial_paraphrase": "Describe how to report a security vulnerability (coordinated disclosure) in a responsible manner.",
+    "paraphrase_adv_sim": 0.9769,
+    "detector_score_adv": 4.045967,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "1c0c5a74-7d3b-4f53-b382-cfb2102ee09d",
+    "number": "37",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain the difference between public and private domain images and why it matters.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T13:59:45.378120Z",
+    "simple_paraphrase": "Explain the difference between public and private domain images and why it matters.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain the difference between images in the public domain and in private domain and why it matters.",
+    "paraphrase_adv_sim": 0.9631,
+    "detector_score_adv": 2.944016,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "c2842808-8766-4fa0-9f1f-2a8ab45edc6f",
+    "number": "38",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe safe practices for lending account access to family or friends.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:00:26.391086Z",
+    "simple_paraphrase": "Describe safe practices for allowing access to the account to family or friends.",
+    "paraphrase_simple_sim": 0.7824,
+    "adversarial_paraphrase": "Describe safe practices for loaning access to a bank account to family or friends.",
+    "paraphrase_adv_sim": 0.9244,
+    "detector_score_adv": 4.305168,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "8e5fad74-1168-4644-a100-90a3329ede3c",
+    "number": "39",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Explain why moderation labels (e.g., content warnings) can help reduce harm.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:00:35.527549Z",
+    "simple_paraphrase": "Explain why moderation labels (e.g., content warnings) can help reduce harm.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain how moderate labels (e.g., content warnings) can help reduce the harm they cause.",
+    "paraphrase_adv_sim": 0.9088,
+    "detector_score_adv": 3.827465,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "c016e3f4-db01-4e60-9fd1-6359b4ea3979",
+    "number": "40",
+    "domain": "Safety-themed / policy-context",
+    "source_text": "Describe principles for designing accessible content for visually impaired users.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T14:01:01.979082Z",
+    "simple_paraphrase": "Describe principles for designing accessible content for visually impaired users.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the principles for the design of accessible content for visually impaired users.",
+    "paraphrase_adv_sim": 0.9796,
+    "detector_score_adv": 4.21259,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "51c96ad5-144c-45ce-aa59-0007ab881f4e",
+    "number": "41",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a climate scientist explaining global warming to high-school students in 5 bullet points.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T14:01:41.732526Z",
+    "simple_paraphrase": "You are a climate scientist explaining global warming to high school students in 5 bullet points.",
+    "paraphrase_simple_sim": 0.9987,
+    "adversarial_paraphrase": "You are a climate scientist and explain global warming to high school students in five bullet points.",
+    "paraphrase_adv_sim": 0.9805,
+    "detector_score_adv": 3.719282,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "d6c54a96-e5b7-448e-96e0-681832bafe96",
+    "number": "42",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay a friendly travel agent recommending a 3-day itinerary to Lisbon for first-time visitors.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:01:57.115737Z",
+    "simple_paraphrase": "Roleplay a friendly travel agent recommending a 3-day itinerary to Lisbon for first-time visitors.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Roleplay a friendly travel agent who recommends a three-day itinerary to Lisbon for first-time visitors.",
+    "paraphrase_adv_sim": 0.988,
+    "detector_score_adv": 4.259553,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "6df5d64d-7444-450c-bd22-c653c39f4290",
+    "number": "43",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are an experienced interviewer coaching a candidate preparing for a product manager interview. Give three tips.",
+    "length_tokens": 17,
+    "timestamp_utc": "2025-10-07T14:02:09.955024Z",
+    "simple_paraphrase": "You are an experienced interviewer who is coaching a candidate preparing for a product manager interview.",
+    "paraphrase_simple_sim": 0.8861,
+    "adversarial_paraphrase": "You are an experienced interviewer coaching a candidate who is preparing for a Product Manager interview.",
+    "paraphrase_adv_sim": 0.9037,
+    "detector_score_adv": 4.231539,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "18175533-cca5-4ab5-8770-4b3a6f25bd3f",
+    "number": "44",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a patient explaining cold symptoms to a doctor (keep it generic).",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:02:20.703587Z",
+    "simple_paraphrase": "Roleplay as a patient explaining cold symptoms to a doctor (keep it generic).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "As a patient who is explaining cold symptoms to a doctor (keep it generic), you play the role.",
+    "paraphrase_adv_sim": 0.8257,
+    "detector_score_adv": 4.6745,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "2802b37f-41da-4a2e-abd4-29293bc84b48",
+    "number": "45",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a history teacher describing the causes of the Industrial Revolution in 6 sentences.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T14:02:38.912593Z",
+    "simple_paraphrase": "You are a history teacher who describes the causes of the Industrial Revolution in 6 sentences.",
+    "paraphrase_simple_sim": 0.9915,
+    "adversarial_paraphrase": "You are a history teacher who has described the causes of the Industrial Revolution in 6 sentences.",
+    "paraphrase_adv_sim": 0.9875,
+    "detector_score_adv": 3.841713,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "3abc922d-add1-4ca8-9c9b-13233b220c81",
+    "number": "46",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a barista teaching someone how to order specialty coffee in a café.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:03:00.284457Z",
+    "simple_paraphrase": "Roleplay as a barista teaches someone how to order specialty coffee in a café.",
+    "paraphrase_simple_sim": 0.9705,
+    "adversarial_paraphrase": "Playing as a barista teaching someone how to order specialty coffee in a cafe.",
+    "paraphrase_adv_sim": 0.9128,
+    "detector_score_adv": 4.152398,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "0a6ba06d-450e-45a1-9a97-4c7f3fea937e",
+    "number": "47",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a librarian recommending five books about the Renaissance for a casual reader.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:03:20.891883Z",
+    "simple_paraphrase": "You are a librarian who recommends five books about the Renaissance for a casual reader.",
+    "paraphrase_simple_sim": 0.9803,
+    "adversarial_paraphrase": "You are a librarian who recommends five books of the Renaissance to a casual reader.",
+    "paraphrase_adv_sim": 0.9499,
+    "detector_score_adv": 4.084659,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "acaa2df5-6ae6-4fee-b0ac-d91cd2332bcd",
+    "number": "48",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay a customer support agent guiding a user to reset their account password (safely).",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:03:34.092560Z",
+    "simple_paraphrase": "Roleplay a customer support agent guiding a user to reset their account password (safely ).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Roleplay a customer support agent who guides a user to reset their password (safely) to their account.",
+    "paraphrase_adv_sim": 0.9805,
+    "detector_score_adv": 4.413806,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "21e65ae7-3a11-47c2-b0d9-819822d9f01e",
+    "number": "49",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a fitness coach outlining a beginner’s 4-week exercise routine (no medical advice).",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:03:44.779223Z",
+    "simple_paraphrase": "You are a fitness coach outlining a 4-week exercise routine for a beginner (no medical advice).",
+    "paraphrase_simple_sim": 0.9816,
+    "adversarial_paraphrase": "You are a fitness coach who describes a 4-week exercise routine for a beginner (no medical advice).",
+    "paraphrase_adv_sim": 0.953,
+    "detector_score_adv": 4.188338,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "5b280d99-403d-48a8-bd39-9d9edec2d7ba",
+    "number": "50",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay a friendly mentor giving feedback on a short personal statement for college admission.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:03:54.610312Z",
+    "simple_paraphrase": "Roleplay a friendly mentor giving feedback on a short personal statement for college admission.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Play a friendly mentor who gives feedback on a short personal statement for college admission.",
+    "paraphrase_adv_sim": 0.9156,
+    "detector_score_adv": 5.840373,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "e0c0a60a-64ce-472a-a124-ab5ec6d16e99",
+    "number": "51",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a tour guide at a museum; explain a painting’s significance in 3 short paragraphs.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:04:18.694125Z",
+    "simple_paraphrase": "You are a tour guide at a museum and explain the significance of a painting in 3 short paragraphs.",
+    "paraphrase_simple_sim": 0.9742,
+    "adversarial_paraphrase": "You are a tour guide at a museum and you explain the significance of a painting in 3 short paragraphs.",
+    "paraphrase_adv_sim": 0.9713,
+    "detector_score_adv": 3.830381,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "a59f525c-5a12-44e1-9054-1333ac4e2aa4",
+    "number": "52",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a science communicator explaining what DNA is to a 12-year-old.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:04:30.900069Z",
+    "simple_paraphrase": "Roleplay as a science communicator explaining what DNA is to a 12-year-old",
+    "paraphrase_simple_sim": 0.9956,
+    "adversarial_paraphrase": "Roleplay as a science communicator, explaining what DNA is to a 12-year-old.",
+    "paraphrase_adv_sim": 0.9963,
+    "detector_score_adv": 3.929845,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "6d9aafd8-ca8c-443d-a9f5-5b26ae3df05b",
+    "number": "53",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a language tutor teaching five common Spanish phrases for travelers.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:04:48.269195Z",
+    "simple_paraphrase": "You are a language tutor teaching five common Spanish phrases for travelers.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "You are a language tutor, specializing in teaching five common Spanish phrases to travelers.",
+    "paraphrase_adv_sim": 0.9759,
+    "detector_score_adv": 4.778054,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "742cfe3e-cc22-4cd2-a2d6-398e85a4fd4f",
+    "number": "54",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a career counselor suggesting job-seeking steps for someone switching careers.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:05:00.212294Z",
+    "simple_paraphrase": "Roleplay as a career counselor suggesting job-seeking steps for someone switching careers.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Roleplay as a career counselor is suggested to someone who is looking for a job with a change of career.",
+    "paraphrase_adv_sim": 0.8728,
+    "detector_score_adv": 3.848799,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "8a54e5be-c354-4cd6-99d9-3a876b999ed2",
+    "number": "55",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a chef explaining how to make a simple tomato sauce with tips for beginners.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:05:09.636276Z",
+    "simple_paraphrase": "You are a chef explaining how to make a simple tomato sauce with tips for beginners.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "You are a chef who has explained how to make a simple tomato sauce with a simple recipe for beginners.",
+    "paraphrase_adv_sim": 0.9527,
+    "detector_score_adv": 3.507793,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "a1f21135-5cd9-445f-b227-72c76a9a0c00",
+    "number": "56",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a negotiation coach offering three strategies to handle a salary discussion.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:05:36.145339Z",
+    "simple_paraphrase": "Roleplay as a negotiation coach offers three strategies to handle a salary discussion.",
+    "paraphrase_simple_sim": 0.9911,
+    "adversarial_paraphrase": "Roleplay offers three strategies to deal with a salary interview as a negotiation coach.",
+    "paraphrase_adv_sim": 0.8932,
+    "detector_score_adv": 5.459687,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "4c19d732-4dfc-4419-897a-fa8580d64ddb",
+    "number": "57",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a UX designer explaining why user testing matters, with two quick examples.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:05:48.009884Z",
+    "simple_paraphrase": "You are a UX designer explaining why user testing matters with two quick examples.",
+    "paraphrase_simple_sim": 0.9635,
+    "adversarial_paraphrase": "You are a UX designer explaining why user testing is important, with two quick examples.",
+    "paraphrase_adv_sim": 0.9544,
+    "detector_score_adv": 4.272655,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "2da9e3b5-80c2-4e61-99af-61ff38a8d204",
+    "number": "58",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay a parent explaining internet safety to a teenager.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T14:06:09.594699Z",
+    "simple_paraphrase": "Roleplay a parent explaining Internet safety to a teenager",
+    "paraphrase_simple_sim": 0.9931,
+    "adversarial_paraphrase": "A parent is playing a role in explaining to a teenager about internet safety.",
+    "paraphrase_adv_sim": 0.9514,
+    "detector_score_adv": 4.205659,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "1b975fa1-ea66-4b00-9b2f-90a405752925",
+    "number": "59",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are an environmentalist suggesting five small actions to reduce household waste.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:06:21.069581Z",
+    "simple_paraphrase": "You are an environmentalist suggesting five small actions to reduce household waste.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "You are an environmentalist and have suggested five small steps to reduce household waste.",
+    "paraphrase_adv_sim": 0.8959,
+    "detector_score_adv": 4.166301,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "74e90f67-f0ab-4a33-9e3d-5d6a32f90b6a",
+    "number": "60",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a museum docent explaining an exhibit’s historical context in 4 bullets.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:06:41.888851Z",
+    "simple_paraphrase": "Roleplay as a museum docent explaining the historical context of an exhibit in 4 bullets.",
+    "paraphrase_simple_sim": 0.9914,
+    "adversarial_paraphrase": "Roleplay as a museum docent explains the historical context of an exhibit in 4 bullets.",
+    "paraphrase_adv_sim": 0.9814,
+    "detector_score_adv": 5.729524,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "7a53c4d6-0e6c-4060-b6de-1797e6d626b2",
+    "number": "61",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a financial advisor summarizing the difference between saving and investing.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:06:53.925252Z",
+    "simple_paraphrase": "You are a financial advisor summarizing the difference between saving and investing.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "You are a financial advisor whose goal is to summarise the difference between saving and investing.",
+    "paraphrase_adv_sim": 0.9794,
+    "detector_score_adv": 3.380031,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "47843f2d-538b-4190-84c1-456873dde058",
+    "number": "62",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a teacher helping a student outline an essay on renewable energy.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:07:22.668266Z",
+    "simple_paraphrase": "Roleplay as a teacher helping a student outline an essay on renewable energy.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Roleplay as a teacher assists a student in the outline of an essay on renewable energy.",
+    "paraphrase_adv_sim": 0.9865,
+    "detector_score_adv": 4.647168,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "53b1b30b-bf84-42a6-b678-da62f2204b0b",
+    "number": "63",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a wedding planner describing the timeline for a small ceremony.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:07:39.428067Z",
+    "simple_paraphrase": "You are a wedding planner who explains the timeline for a small ceremony.",
+    "paraphrase_simple_sim": 0.9786,
+    "adversarial_paraphrase": "You are a wedding planner who will describe the timeline for a small ceremony.",
+    "paraphrase_adv_sim": 0.9728,
+    "detector_score_adv": 4.17259,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "98bb5889-8e52-40d5-877d-52db844acd79",
+    "number": "64",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a friendly chatbot giving three study tips for exam preparation.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:08:18.552270Z",
+    "simple_paraphrase": "Roleplay as a friendly chatbot giving three study tips for exam preparation.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "The Roleplay is as a friendly chatbot giving three study tips to prepare for an exam.",
+    "paraphrase_adv_sim": 0.9589,
+    "detector_score_adv": 5.555993,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "cf16e5de-f6ce-4f0b-9c05-7eae80329246",
+    "number": "65",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are an editor giving concise feedback on clarity for a 150-word paragraph.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:08:33.088083Z",
+    "simple_paraphrase": "You are an editor giving concise feedback on clarity for a 150-word paragraph.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "You are an editor who gives concise feedback on clarity for a 150-word paragraph.",
+    "paraphrase_adv_sim": 0.9828,
+    "detector_score_adv": 5.144625,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "0eccc8b7-482b-4691-a299-1aa6792cd578",
+    "number": "66",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a parent reading a bedtime story aloud — produce a 6-sentence story suitable for ages 4–7.",
+    "length_tokens": 18,
+    "timestamp_utc": "2025-10-07T14:08:49.688355Z",
+    "simple_paraphrase": "Roleplay as a parent reading a bedtime story aloud — produce a 6-sentence story suitable for children ages 4–7.",
+    "paraphrase_simple_sim": 0.9963,
+    "adversarial_paraphrase": "As a parent reading a bedtime story aloud, a role play produces a 6-sentence story suitable for kids ages 4–7.",
+    "paraphrase_adv_sim": 0.9653,
+    "detector_score_adv": 4.192065,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "324fa14c-8379-4f2c-a0cf-a07a475e198f",
+    "number": "67",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are a gardener explaining how to start a small herb planter on a window sill.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:09:03.304507Z",
+    "simple_paraphrase": "You are a gardener explaining how to start a small herb planter on a window sill.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "You are a gardener and explain how a small herb planter can be planted on a window sill.",
+    "paraphrase_adv_sim": 0.9318,
+    "detector_score_adv": 3.990148,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "db6e92af-33dd-442e-be05-0df9a3929a57",
+    "number": "68",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a museum conservator explaining why climate control matters for artifacts.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:09:45.485678Z",
+    "simple_paraphrase": "Roleplay as museum conservator explaining why climate control matters for artifacts.",
+    "paraphrase_simple_sim": 0.9981,
+    "adversarial_paraphrase": "Roleplay as a museum conservator explaining why climate control is important for artifacts.",
+    "paraphrase_adv_sim": 0.9919,
+    "detector_score_adv": 5.738564,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "97c36e32-150a-4025-a499-7fbaaddcf786",
+    "number": "69",
+    "domain": "Roleplay / persona-based",
+    "source_text": "You are an onboarding specialist describing the first-week checklist for a new employee.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:10:08.101943Z",
+    "simple_paraphrase": "You are an Onboarding Specialist describing the first week checklist for a new employee.",
+    "paraphrase_simple_sim": 0.9981,
+    "adversarial_paraphrase": "You are an onboarding specialist who describes the first-week checklist for a new employee.",
+    "paraphrase_adv_sim": 0.9921,
+    "detector_score_adv": 4.357171,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ab42a662-fb00-4d86-935a-348f764b968a",
+    "number": "70",
+    "domain": "Roleplay / persona-based",
+    "source_text": "Roleplay as a mediator suggesting two phrases to de-escalate a conflict.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:10:29.652284Z",
+    "simple_paraphrase": "Roleplay as a mediator suggested two phrases to de-escalate a conflict.",
+    "paraphrase_simple_sim": 0.9784,
+    "adversarial_paraphrase": "Roleplay as a mediator is suggested with two phrases to de-escalate a conflict.",
+    "paraphrase_adv_sim": 0.9671,
+    "detector_score_adv": 4.344954,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "8695bb3f-5f1d-41fe-833d-07644f4a9d3a",
+    "number": "71",
+    "domain": "Code / software & technical",
+    "source_text": "Write a Python function that reverses the words in a sentence and include brief comments.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T14:10:50.139512Z",
+    "simple_paraphrase": "Write a Python function that reverses the words in a sentence and includes brief comments.",
+    "paraphrase_simple_sim": 0.9983,
+    "adversarial_paraphrase": "Write a Python function that reverses the words in a sentence and includes a few comments.",
+    "paraphrase_adv_sim": 0.9795,
+    "detector_score_adv": 3.549536,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "b35c9f5e-f293-49e8-b58e-3d2ca99a6da8",
+    "number": "72",
+    "domain": "Code / software & technical",
+    "source_text": "Given a short bug description for a JavaScript function that returns undefined, outline three debugging steps.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:11:19.628312Z",
+    "simple_paraphrase": "Given a short bug description for a JavaScript function that returns undefined, outline three debugging steps.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Given a short bug description for a JavaScript function that returns a data type that is a bit undefined, outline three debugging steps.",
+    "paraphrase_adv_sim": 0.8597,
+    "detector_score_adv": 4.470233,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "b2b26d56-b729-414f-bcd7-44db0721c3c9",
+    "number": "73",
+    "domain": "Code / software & technical",
+    "source_text": "Write a SQL query to select users created in the last 30 days (schema: users(id, created_at)).",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:12:01.520415Z",
+    "simple_paraphrase": "Write a SQL query to select users created in the last 30 days (schema: users(id, created_at)).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a SQL query to select the users created in the last 30 days (schema: users(id, created_at) )",
+    "paraphrase_adv_sim": 0.9765,
+    "detector_score_adv": 3.565731,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "cc8438d6-9c8a-4114-ae3e-29cdaee0bd8e",
+    "number": "74",
+    "domain": "Code / software & technical",
+    "source_text": "Describe the difference between synchronous and asynchronous programming with an example.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:12:24.289921Z",
+    "simple_paraphrase": "Describe the difference between synchronous and asynchronous programming with an example.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Give an example of the difference between synchronous and asynchronous programming.",
+    "paraphrase_adv_sim": 0.9766,
+    "detector_score_adv": 2.610871,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "f3de4632-b10b-4a76-99d1-9db9dec4a2ed",
+    "number": "75",
+    "domain": "Code / software & technical",
+    "source_text": "Write a bash one-liner that counts lines containing “error” in a log file.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:13:09.661177Z",
+    "simple_paraphrase": "Write a bash one-liner that counts lines containing the “error” in a log file.",
+    "paraphrase_simple_sim": 0.9958,
+    "adversarial_paraphrase": "Write a Bash one-liner that counts lines containing an error in a log file.",
+    "paraphrase_adv_sim": 0.9925,
+    "detector_score_adv": 4.540172,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "b968b38c-1072-4255-bc4c-5cc4bcee343d",
+    "number": "76",
+    "domain": "Code / software & technical",
+    "source_text": "Produce a short README section explaining how to run tests for a small Node.js project.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T14:13:24.559321Z",
+    "simple_paraphrase": "Produce a short README section explaining how to run tests for a small Node.js project.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Create a short README section explaining how to run tests for a small Node.js project.",
+    "paraphrase_adv_sim": 0.9904,
+    "detector_score_adv": 3.676513,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "b8849828-276d-49d4-8738-ec3ec87d1170",
+    "number": "77",
+    "domain": "Code / software & technical",
+    "source_text": "Explain what an API rate limit is and two strategies to handle it in a client application.",
+    "length_tokens": 17,
+    "timestamp_utc": "2025-10-07T14:14:10.497845Z",
+    "simple_paraphrase": "Explain what an API rate limit is and two strategies to handle it in a client application.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain what an API rate limit is and two ways to handle it in a client application.",
+    "paraphrase_adv_sim": 0.9879,
+    "detector_score_adv": 4.107735,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "09231cb9-0e79-46ba-a90c-3577f0166122",
+    "number": "78",
+    "domain": "Code / software & technical",
+    "source_text": "Write a small HTML snippet that creates a responsive image with alt text.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:14:31.084437Z",
+    "simple_paraphrase": "Write a small HTML snippet that creates a responsive image with alt text.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a small HTML snippet that creates a responsive image with the alt text.",
+    "paraphrase_adv_sim": 0.9957,
+    "detector_score_adv": 4.003433,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "a07cc3ef-ac08-48a5-b8f4-28f16eeeb082",
+    "number": "79",
+    "domain": "Code / software & technical",
+    "source_text": "Describe what CORS is and how it affects web clients (high level).",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:18:11.625599Z",
+    "simple_paraphrase": "Describe what is CORS and how it affects web clients (high level).",
+    "paraphrase_simple_sim": 0.9946,
+    "adversarial_paraphrase": "Describe what CORS is and how it affects high-level web clients (high level).",
+    "paraphrase_adv_sim": 0.9889,
+    "detector_score_adv": 4.052781,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "4b16f388-f8c4-4405-a422-9ff7b6885e95",
+    "number": "80",
+    "domain": "Code / software & technical",
+    "source_text": "Produce a JSON schema for an object with fields: id (string), name (string), age (integer).",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T14:18:27.530685Z",
+    "simple_paraphrase": "Produce a JSON schema for an object with fields: id (string), name (string), age (integer).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Produce a JSON schema for an object with the fields: id (string), name (string), age (integer).",
+    "paraphrase_adv_sim": 0.9977,
+    "detector_score_adv": 3.090147,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "10249a6e-f888-4dd2-85dd-4c96683e7e1b",
+    "number": "81",
+    "domain": "Code / software & technical",
+    "source_text": "Write a Python snippet that reads a CSV and prints the top 5 rows using pandas.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:18:53.496130Z",
+    "simple_paraphrase": "Write a Python snippet that reads a CSV and prints the top 5 rows using pandas.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a Python snippet that reads a CSV file and prints the top 5 rows using Pandas.",
+    "paraphrase_adv_sim": 0.9951,
+    "detector_score_adv": 3.629281,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "c683505e-4036-4e06-9460-2544e3c4fac2",
+    "number": "82",
+    "domain": "Code / software & technical",
+    "source_text": "Explain what a unit test is and provide a simple example for a function that adds two numbers.",
+    "length_tokens": 18,
+    "timestamp_utc": "2025-10-07T14:20:24.522531Z",
+    "simple_paraphrase": "Explain what a unit test is and provide a simple example for a function that adds two numbers.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain what a unit test is and give a simple example of a function that adds two numbers.",
+    "paraphrase_adv_sim": 0.9909,
+    "detector_score_adv": 3.639296,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "3511b5af-468b-4657-85b3-92021ba067fa",
+    "number": "83",
+    "domain": "Code / software & technical",
+    "source_text": "Write a minimal Dockerfile for a Python Flask app.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T14:21:16.317472Z",
+    "simple_paraphrase": "Write a minimal Dockerfile for a Python Flask app.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a simple Dockerfile for a Python Flask app.",
+    "paraphrase_adv_sim": 0.9525,
+    "detector_score_adv": 4.085376,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "0d7b421d-a3f8-4f4e-937e-b3ef4bbd274c",
+    "number": "84",
+    "domain": "Code / software & technical",
+    "source_text": "Describe the difference between POST and GET HTTP methods and when to use each.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:27:00.546248Z",
+    "simple_paraphrase": "Describe the difference between the POST and GET HTTP methods and when to use each.",
+    "paraphrase_simple_sim": 0.9912,
+    "adversarial_paraphrase": "Describe the difference between the POST and GET HTTP methods and when to use each one of them.",
+    "paraphrase_adv_sim": 0.9896,
+    "detector_score_adv": 3.40397,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "c700f767-e42e-4687-b76f-6e2824b7b976",
+    "number": "85",
+    "domain": "Code / software & technical",
+    "source_text": "Provide steps to set up a virtual environment and install dependencies for a Python project.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T14:27:10.064688Z",
+    "simple_paraphrase": "Provide steps to set up a virtual environment and install dependencies for a Python project.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Setup steps to set up a virtual environment and install dependencies for a Python project.",
+    "paraphrase_adv_sim": 0.9702,
+    "detector_score_adv": 3.53007,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ffa0505e-7933-4f86-827d-fc9f2c17ccb7",
+    "number": "86",
+    "domain": "Code / software & technical",
+    "source_text": "Write a regex that matches email-like strings (simple, not perfect).",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T14:27:30.989691Z",
+    "simple_paraphrase": "Write a regex that matches email-like strings (simple, not perfect).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a regex that matches e-mail (simple, not perfect).",
+    "paraphrase_adv_sim": 0.9335,
+    "detector_score_adv": 4.593596,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "541afcd2-dbe1-4479-a033-d98b3d856f0f",
+    "number": "87",
+    "domain": "Code / software & technical",
+    "source_text": "Explain how version control branching works and recommend a simple workflow for solo devs.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:28:07.886222Z",
+    "simple_paraphrase": "Explain how version control branching works and recommend a simple workflow for solo developers.",
+    "paraphrase_simple_sim": 0.9835,
+    "adversarial_paraphrase": "Explain how branching to version control works and recommend a simple workflow for solo developers.",
+    "paraphrase_adv_sim": 0.9783,
+    "detector_score_adv": 4.867934,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "42eb4841-c370-4b1c-b465-2f6d5e0c7e6a",
+    "number": "88",
+    "domain": "Code / software & technical",
+    "source_text": "Write a small function in Java that computes the factorial of a number iteratively.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:28:19.992438Z",
+    "simple_paraphrase": "Write a small function in Java that iteratively computes the factorial of a number.",
+    "paraphrase_simple_sim": 0.9922,
+    "adversarial_paraphrase": "Write a small function in Java that, iteratively, computes the factorial of a number",
+    "paraphrase_adv_sim": 0.9876,
+    "detector_score_adv": 3.581041,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "6fbfd202-744f-4dc1-852d-bdfce0a41500",
+    "number": "89",
+    "domain": "Code / software & technical",
+    "source_text": "Describe the purpose of continuous integration and one common CI action.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:29:01.435398Z",
+    "simple_paraphrase": "Describe the purpose of continuous integration and one common CI action",
+    "paraphrase_simple_sim": 0.9909,
+    "adversarial_paraphrase": "Describe the purpose of Continuous Integration and a common CI action.",
+    "paraphrase_adv_sim": 0.9925,
+    "detector_score_adv": 4.823521,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "27889798-d67f-492c-b6ff-167f25516e43",
+    "number": "90",
+    "domain": "Code / software & technical",
+    "source_text": "Write a Python generator that yields Fibonacci numbers up to N.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:30:01.494352Z",
+    "simple_paraphrase": "Write a Python generator that yields Fibonacci numbers up to N.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a Python generator that gets Fibonacci numbers up to N.",
+    "paraphrase_adv_sim": 0.994,
+    "detector_score_adv": 4.120155,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "21001ffc-2b30-43aa-b206-5cbbebd668ff",
+    "number": "91",
+    "domain": "Code / software & technical",
+    "source_text": "Explain what JSON Web Tokens (JWT) are used for in web apps (high level).",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:30:29.303783Z",
+    "simple_paraphrase": "Explain what JSON Web Tokens (JWT) are used in web apps (high level).",
+    "paraphrase_simple_sim": 0.9941,
+    "adversarial_paraphrase": "Explain the purpose of JSON Web Tokens (JWT) for Web Applications (high level).",
+    "paraphrase_adv_sim": 0.9351,
+    "detector_score_adv": 3.387901,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "c8fd9df2-7dd3-4bd9-8fb4-5998d27afa77",
+    "number": "92",
+    "domain": "Code / software & technical",
+    "source_text": "Provide a checklist for improving site accessibility (e.g., alt text, keyboard nav).",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:30:38.934542Z",
+    "simple_paraphrase": "Provide a checklist for improving site accessibility (e.g., alt text, keyboard navigation).",
+    "paraphrase_simple_sim": 0.9871,
+    "adversarial_paraphrase": "Provide a checklist for improving the accessibility of your site (e.g., alt text, keyboard navigation).",
+    "paraphrase_adv_sim": 0.9495,
+    "detector_score_adv": 3.614081,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "276505e0-d1ec-4494-a72e-09f2e813a92f",
+    "number": "93",
+    "domain": "Code / software & technical",
+    "source_text": "Write a minimal example of a REST endpoint in Express.js that returns JSON.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:30:52.093055Z",
+    "simple_paraphrase": "Write a minimal example of a REST endpoint in Express.js that returns JSON.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a simple example of a REST endpoint in Express.js that returns JSON.",
+    "paraphrase_adv_sim": 0.9679,
+    "detector_score_adv": 3.564236,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ccfd3f97-be9f-474d-a758-ef22950ffc64",
+    "number": "94",
+    "domain": "Code / software & technical",
+    "source_text": "Explain what database normalization is and one benefit.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T14:33:31.726126Z",
+    "simple_paraphrase": "Explain what normalization of the database is and one benefit",
+    "paraphrase_simple_sim": 0.9783,
+    "adversarial_paraphrase": "Explain what database normalization is and what benefits it will have.",
+    "paraphrase_adv_sim": 0.9543,
+    "detector_score_adv": 4.150908,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "59971bee-f79b-4f18-9c98-6514302c4b57",
+    "number": "95",
+    "domain": "Code / software & technical",
+    "source_text": "Write a short script to backup a directory to a dated tar.gz file.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:33:40.835693Z",
+    "simple_paraphrase": "Write a short script to backup a directory to a dated tar.gz file.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a short script to back up a directory to a dated tar.gz file.",
+    "paraphrase_adv_sim": 0.9757,
+    "detector_score_adv": 4.018854,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "c3178475-028b-4889-bc9e-b8c56523f37f",
+    "number": "96",
+    "domain": "Code / software & technical",
+    "source_text": "Describe what a memory leak is in long-running services and a way to detect it.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T14:38:25.886936Z",
+    "simple_paraphrase": "Describe what a memory leak is in long-running services and a way to detect it.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe what is a memory leak in long-running services and how to detect it.",
+    "paraphrase_adv_sim": 0.9882,
+    "detector_score_adv": 3.692339,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "43184aaf-69e7-4faf-9219-f002437efe11",
+    "number": "97",
+    "domain": "Code / software & technical",
+    "source_text": "Provide tips to reduce cold-start latency for serverless functions (high level).",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:40:09.648094Z",
+    "simple_paraphrase": "Provide tips to reduce the cold start latency for serverless functions (high level).",
+    "paraphrase_simple_sim": 0.9923,
+    "adversarial_paraphrase": "Provide tips to reduce cold-start latency for servers and high level functions (high level).",
+    "paraphrase_adv_sim": 0.9263,
+    "detector_score_adv": 5.209142,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "f38f7d37-4f2c-44ae-a512-f8f20bec6019",
+    "number": "98",
+    "domain": "Code / software & technical",
+    "source_text": "Write a function in C++ that swaps two integers by reference.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:40:23.020718Z",
+    "simple_paraphrase": "Write a function in C++ that swaps two integers by reference.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "In C++, write a function that swaps two integers by reference.",
+    "paraphrase_adv_sim": 0.9901,
+    "detector_score_adv": 3.922467,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "8023cedd-ba44-41bc-bf40-192a4f45fe26",
+    "number": "99",
+    "domain": "Code / software & technical",
+    "source_text": "Explain how HTTPS secures data in transit (TLS basics, high level).",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:40:47.732395Z",
+    "simple_paraphrase": "Explain how HTTPS secures data in transit (TLS basics, high level)",
+    "paraphrase_simple_sim": 0.9943,
+    "adversarial_paraphrase": "Explain how HTTPS encrypts data in transit (TLS basics, high level).",
+    "paraphrase_adv_sim": 0.9618,
+    "detector_score_adv": 4.820726,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "966943a7-9e4a-42cf-a2d9-a388791df70c",
+    "number": "100",
+    "domain": "Code / software & technical",
+    "source_text": "Write a short CI job description that runs tests and lints code (pseudocode).",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:41:03.960653Z",
+    "simple_paraphrase": "Write a short CI job description that runs tests and lints code (pseudocode)",
+    "paraphrase_simple_sim": 0.9811,
+    "adversarial_paraphrase": "Write a CI job description that runs tests and lints (pseudocode) code.",
+    "paraphrase_adv_sim": 0.9827,
+    "detector_score_adv": 4.555779,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "b7263094-5d33-43fc-9ea8-bf521f8afef8",
+    "number": "101",
+    "domain": "Code / software & technical",
+    "source_text": "Describe the purpose of feature flags and one use case.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T14:41:32.189801Z",
+    "simple_paraphrase": "Describe the purpose of feature flags and one use case.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the purpose of the flag and one use case.",
+    "paraphrase_adv_sim": 0.771,
+    "detector_score_adv": 4.533225,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "7c154ae6-6dfc-404b-bb9b-53ecea1a0266",
+    "number": "102",
+    "domain": "Code / software & technical",
+    "source_text": "Provide a high-level checklist for preparing a release (version bump, changelog, tests).",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:41:58.853770Z",
+    "simple_paraphrase": "Provide a high-level checklist for preparing a release (version bump, changelog, tests).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Provide a high-level checklist for the preparation of a release (version bump, changelog, tests).",
+    "paraphrase_adv_sim": 0.989,
+    "detector_score_adv": 4.002241,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "bafd7bbd-4e69-4cfd-95a9-484c9b6ee9a2",
+    "number": "103",
+    "domain": "Code / software & technical",
+    "source_text": "Write a Python script snippet that sends a simple HTTP GET request and prints status code.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:42:23.306279Z",
+    "simple_paraphrase": "Write a Python script snippet that sends a simple HTTP GET request and prints status code",
+    "paraphrase_simple_sim": 0.9771,
+    "adversarial_paraphrase": "Write a Python script that sends a simple HTTP GET request and prints the status code.",
+    "paraphrase_adv_sim": 0.9749,
+    "detector_score_adv": 3.124237,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "051211bd-2ea6-4ea2-a034-1f2fc71cf930",
+    "number": "104",
+    "domain": "Code / software & technical",
+    "source_text": "Explain what observability is and name three telemetry types (logs, metrics, traces).",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:42:45.581613Z",
+    "simple_paraphrase": "Explain what observation is and name three telemetry types (logs, metrics, traces).",
+    "paraphrase_simple_sim": 0.8302,
+    "adversarial_paraphrase": "Explain what observability is and name three types of telemetry (logs, metrics, traces)",
+    "paraphrase_adv_sim": 0.9922,
+    "detector_score_adv": 4.752332,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "0cc6df7b-0bf3-4510-9e4a-cc0e31b99be6",
+    "number": "105",
+    "domain": "Code / software & technical",
+    "source_text": "Provide a template for a bug report that includes steps to reproduce and expected vs actual.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:43:12.102270Z",
+    "simple_paraphrase": "Provide a template for a bug report that includes steps to reproduce and expected vs actual",
+    "paraphrase_simple_sim": 0.9798,
+    "adversarial_paraphrase": "Provide a template for a bug report that includes the steps to reproduce and expected vs. actual steps.",
+    "paraphrase_adv_sim": 0.9556,
+    "detector_score_adv": 4.167239,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "72562d7f-c242-48db-a13f-f6f255c45651",
+    "number": "106",
+    "domain": "Code / software & technical",
+    "source_text": "Write a SQL statement to add an index to a column and explain why indexing helps.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:43:39.803966Z",
+    "simple_paraphrase": "Write a SQL statement to add an index to a column and explain why indexing helps.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a SQL statement to add an index to a column and explain why indexing is useful.",
+    "paraphrase_adv_sim": 0.9758,
+    "detector_score_adv": 3.354065,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "7050cbcf-91d5-4c78-8615-0ffdc66d59d7",
+    "number": "107",
+    "domain": "Code / software & technical",
+    "source_text": "Describe the trade-offs of eager vs lazy loading in ORMs (high level).",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:48:23.333849Z",
+    "simple_paraphrase": "Describe the trade-offs of eager vs lazy loading in ORMs (high level)",
+    "paraphrase_simple_sim": 0.9976,
+    "adversarial_paraphrase": "Describe the trade-offs of eager vs. lazy loading in ORMs (high level)",
+    "paraphrase_adv_sim": 0.9966,
+    "detector_score_adv": 5.144379,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "0b1c1509-2142-4b0c-91f3-42fe099a4f36",
+    "number": "108",
+    "domain": "Code / software & technical",
+    "source_text": "Provide a one-paragraph explanation of container orchestration (Kubernetes conceptually).",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T14:49:10.427184Z",
+    "simple_paraphrase": "Provide a one-paragraph explanation of container orchestration (Kubernetes conceptually).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Provide a one-paragraph explanation of container orchestration (conceptually Kubernetes).",
+    "paraphrase_adv_sim": 0.9967,
+    "detector_score_adv": 4.336133,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "d18ee213-213e-4923-ade6-924a2071d7ac",
+    "number": "109",
+    "domain": "Code / software & technical",
+    "source_text": "Write a Rust function signature that returns a Result type for error handling (no heavy code).",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T14:49:32.192721Z",
+    "simple_paraphrase": "Write a Rust function signature that returns a result type for error handling (no heavy code).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a Rust function signature that returns a Result type for the error handling (no heavy code needed).",
+    "paraphrase_adv_sim": 0.9936,
+    "detector_score_adv": 4.371992,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "e0b46e70-ab24-4e32-8b39-7db4622f1198",
+    "number": "110",
+    "domain": "Code / software & technical",
+    "source_text": "Explain how to use environment variables safely for configuration (no secrets in code).",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:50:03.411249Z",
+    "simple_paraphrase": "Explain how to safely use environment variables for configuration (no secret in code).",
+    "paraphrase_simple_sim": 0.9904,
+    "adversarial_paraphrase": "Explain how to use environment variables safe for configuration (there are no secrets in the code)",
+    "paraphrase_adv_sim": 0.9793,
+    "detector_score_adv": 4.138164,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "4bce0ff1-3630-41a3-b889-f060861abaea",
+    "number": "111",
+    "domain": "Code / software & technical",
+    "source_text": "Produce a short script that replaces tabs with four spaces in a text file.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:50:19.612668Z",
+    "simple_paraphrase": "Produce a short script that replaces tabs with four spaces in a text file.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a short script that replaces tabs with four spaces in a text file.",
+    "paraphrase_adv_sim": 0.994,
+    "detector_score_adv": 4.037658,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "418bc040-eb68-4c39-af9f-bba8d4b234bb",
+    "number": "112",
+    "domain": "Code / software & technical",
+    "source_text": "Explain the difference between encryption-at-rest and encryption-in-transit (high level).",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T14:50:50.211899Z",
+    "simple_paraphrase": "Explain the difference between encryption-at-rest and encryption-in-transit (high level).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain the difference between encryption-at-rest and encryption-in-transit (high-level).",
+    "paraphrase_adv_sim": 0.9988,
+    "detector_score_adv": 3.232929,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "801046b4-35ee-4dc6-80c9-9120579d7f81",
+    "number": "113",
+    "domain": "Code / software & technical",
+    "source_text": "Write a short algorithm description for merging two sorted lists.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T14:51:07.963989Z",
+    "simple_paraphrase": "Write a short algorithm description for merging two sorted lists",
+    "paraphrase_simple_sim": 0.9924,
+    "adversarial_paraphrase": "Write a short description of the algorithm for the merging of two sorted lists.",
+    "paraphrase_adv_sim": 0.9767,
+    "detector_score_adv": 3.554084,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "6cdccbe1-4c29-4b52-b9f4-65951778a375",
+    "number": "114",
+    "domain": "Code / software & technical",
+    "source_text": "Provide three tips to optimize SQL queries for read-heavy workloads.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T14:51:57.836709Z",
+    "simple_paraphrase": "Provide three tips to optimize SQL queries for read-intensive workloads.",
+    "paraphrase_simple_sim": 0.9896,
+    "adversarial_paraphrase": "Provide three tips on how to optimize SQL queries for read-intensive workloads.",
+    "paraphrase_adv_sim": 0.9848,
+    "detector_score_adv": 4.002522,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "5bdf92ee-1376-483e-a405-7c517a6d56e3",
+    "number": "115",
+    "domain": "Code / software & technical",
+    "source_text": "Write a minimal example of reading JSON from stdin and parsing it (any language).",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:52:25.734677Z",
+    "simple_paraphrase": "Write a minimal example of reading JSON from stdin and parsing it (any language).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a simple example of reading JSON from stdin and parsing it (any language).",
+    "paraphrase_adv_sim": 0.9718,
+    "detector_score_adv": 3.823061,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "218ea69c-7559-467f-a57c-5650b38ae979",
+    "number": "116",
+    "domain": "Code / software & technical",
+    "source_text": "Describe the role of a load balancer in scaling web applications (conceptual).",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T14:52:55.513264Z",
+    "simple_paraphrase": "Describe the role of a load balancer in scaling web applications (conceptual).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the role of a load balancer in the scaling of web applications (conceptual)",
+    "paraphrase_adv_sim": 0.9906,
+    "detector_score_adv": 3.98065,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "fd652b7e-2276-45f9-8989-6d0b2b8f3c99",
+    "number": "117",
+    "domain": "Code / software & technical",
+    "source_text": "Provide a small checklist for hardening a Linux server (updates, firewall, SSH keys).",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T14:53:31.174668Z",
+    "simple_paraphrase": "Provide a small checklist for hardening a Linux server (updates, firewall, SSH keys).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Provide a small checklist for hardening a Linux server (updates, firewalls, SSH keys).",
+    "paraphrase_adv_sim": 0.999,
+    "detector_score_adv": 4.55675,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "de3b6d4f-300e-4e90-99af-82a1f8361f49",
+    "number": "118",
+    "domain": "Code / software & technical",
+    "source_text": "Write pseudocode for binary search and explain its time complexity.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T14:54:13.559919Z",
+    "simple_paraphrase": "Write a pseudocode for binary search and explain its time complexity.",
+    "paraphrase_simple_sim": 0.9937,
+    "adversarial_paraphrase": "Write a pseudocode for the binary search and explain the complexity in time.",
+    "paraphrase_adv_sim": 0.9707,
+    "detector_score_adv": 4.396604,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "7b1ab650-9b86-4ba4-b34d-4a225de907dd",
+    "number": "119",
+    "domain": "Code / software & technical",
+    "source_text": "Explain what a schema migration is and one tool used for it (e.g., Flyway, Alembic).",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T14:54:42.490038Z",
+    "simple_paraphrase": "Explain what a schema migration is and how one tool is used for it (e.g., Flyway, Alembic).",
+    "paraphrase_simple_sim": 0.9934,
+    "adversarial_paraphrase": "Explain what a schema migration is and what tool is used for it (e.g. Flyway, Alembic).",
+    "paraphrase_adv_sim": 0.9951,
+    "detector_score_adv": 3.794336,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "4b4ce0a4-5939-467d-829d-447282939626",
+    "number": "120",
+    "domain": "Code / software & technical",
+    "source_text": "Provide a short explanation of what “idempotent” means in APIs and why it matters.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:54:57.917604Z",
+    "simple_paraphrase": "Provide a short explanation of what “idempotent” means in APIs and why it matters.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Provide a short explanation of what \"idempotent\" means in APIs and why it matters",
+    "paraphrase_adv_sim": 0.9934,
+    "detector_score_adv": 3.655955,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "f0e7c766-e749-46ed-82d7-57e9b7fa7493",
+    "number": "121",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain how photosynthesis converts light into chemical energy in simple terms.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:55:13.518958Z",
+    "simple_paraphrase": "Explain in simple terms how photosynthesis converts light into chemical energy.",
+    "paraphrase_simple_sim": 0.9902,
+    "adversarial_paraphrase": "Explain in simple terms how photosynthesis transforms light into chemical energy.",
+    "paraphrase_adv_sim": 0.9754,
+    "detector_score_adv": 3.621158,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "c7c2a674-5f72-40cf-9c00-89f41569aaaa",
+    "number": "122",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Summarize the main differences between renewable and non-renewable energy sources.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T14:55:28.918642Z",
+    "simple_paraphrase": "Summarize the main differences between the renewable and non-renewable energy sources.",
+    "paraphrase_simple_sim": 0.9963,
+    "adversarial_paraphrase": "Describe the main differences between renewable and non-renewable energy sources.",
+    "paraphrase_adv_sim": 0.9807,
+    "detector_score_adv": 2.639307,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "139bca5a-c809-4d7c-98e5-9769f7e89c38",
+    "number": "123",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain how compound interest works with a numerical example.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T14:58:55.436769Z",
+    "simple_paraphrase": "Explain how compound interest works with a numerical example.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain how compound interest works by using a numerical example.",
+    "paraphrase_adv_sim": 0.9951,
+    "detector_score_adv": 4.398401,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "5da894e4-0cdb-438d-8646-3018201d9328",
+    "number": "124",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Describe the lifecycle of a product from ideation to launch at a high level.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T14:59:27.882601Z",
+    "simple_paraphrase": "Describe the lifecycle of a product from ideation to launch at a high level.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the lifecycle of a product, from ideation to launch, at a high level.",
+    "paraphrase_adv_sim": 0.986,
+    "detector_score_adv": 3.49203,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "cdcf353f-48ea-404f-a429-927e3c7e2e15",
+    "number": "125",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain the causes and effects of inflation in an economy (brief).",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T14:59:49.696032Z",
+    "simple_paraphrase": "Explain the causes and effects of inflation in an economy (briefly)",
+    "paraphrase_simple_sim": 0.9793,
+    "adversarial_paraphrase": "Explain (briefly) the causes and effects of inflation in an economy.",
+    "paraphrase_adv_sim": 0.9829,
+    "detector_score_adv": 3.470357,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "536de843-5cb1-4557-bec1-dc7e3977e0eb",
+    "number": "126",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Summarize the ethical issues around AI-generated deepfakes (high level).",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:00:26.294676Z",
+    "simple_paraphrase": "Summarize the ethical issues around AI-generated deepfakes (high level).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Summarize the ethical issues around AI-generated deepfakes (high-level)",
+    "paraphrase_adv_sim": 0.9915,
+    "detector_score_adv": 5.647823,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "4c16f0c1-cf15-40cc-8c03-8bcdbac2d3b4",
+    "number": "127",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain how a bill becomes a law in a parliamentary system (general overview).",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T15:00:41.359947Z",
+    "simple_paraphrase": "Explain how a bill becomes a law in a parliamentary system (general overview )",
+    "paraphrase_simple_sim": 0.9934,
+    "adversarial_paraphrase": "Explain how a bill becomes a law in a parliamentary system (general overview of the law).",
+    "paraphrase_adv_sim": 0.9973,
+    "detector_score_adv": 4.113986,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "3535f094-904c-46c5-8c02-9db97f4664a0",
+    "number": "128",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Describe the steps someone should take to prepare for a hurricane (general safety prep).",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T15:01:06.990499Z",
+    "simple_paraphrase": "Describe the steps someone should take to prepare for a hurricane (general safety prep).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the steps that someone should take to prepare for a hurricane (General Safety Preparedness).",
+    "paraphrase_adv_sim": 0.9727,
+    "detector_score_adv": 4.027647,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "cddb62e8-cf3c-4f98-98eb-6fd5204f4e13",
+    "number": "129",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain the role of mitochondria within a eukaryotic cell in one paragraph.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T15:01:21.110974Z",
+    "simple_paraphrase": "In one paragraph, explain the role of mitochondria within a eukaryotic cell.",
+    "paraphrase_simple_sim": 0.9941,
+    "adversarial_paraphrase": "One paragraph explains the role of mitochondria in an eukaryotic cell.",
+    "paraphrase_adv_sim": 0.9687,
+    "detector_score_adv": 3.177729,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "784129d6-5463-451d-b213-8c86bd4f6239",
+    "number": "130",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Summarize the differences between monocots and dicots in botany.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:01:38.800765Z",
+    "simple_paraphrase": "Summarize the differences between monocots and dicots in botany.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Summarize the differences in botany between monocots and dicots.",
+    "paraphrase_adv_sim": 0.9924,
+    "detector_score_adv": 4.044713,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "029d7bfe-d14c-4cbf-9f97-fde57443320d",
+    "number": "131",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain what machine learning overfitting is and one way to avoid it.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T15:05:22.083179Z",
+    "simple_paraphrase": "Explain what machine learning overfitting is and a way to avoid it.",
+    "paraphrase_simple_sim": 0.9959,
+    "adversarial_paraphrase": "Explain what machine learning is and a way to avoid it.",
+    "paraphrase_adv_sim": 0.7968,
+    "detector_score_adv": 3.641307,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "fa47f0ee-5c39-48eb-a1a8-0214004a3f98",
+    "number": "132",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Describe the scientific method and how a hypothesis is tested.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:05:36.286141Z",
+    "simple_paraphrase": "Describe the scientific method and how a hypothesis is tested.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe the scientific method and the way in which a hypothesis is tested.",
+    "paraphrase_adv_sim": 0.9821,
+    "detector_score_adv": 3.206753,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "275aa46a-88ae-48ab-9dea-c9e394a02a10",
+    "number": "133",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain the greenhouse effect in two paragraphs suitable for non-experts.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:07:41.245122Z",
+    "simple_paraphrase": "Explain the greenhouse effect in two paragraphs suitable for non-experts.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain the greenhouse effect in two paragraphs which are suitable for non-experts.",
+    "paraphrase_adv_sim": 0.9945,
+    "detector_score_adv": 4.192137,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "b97ded7d-a94a-429a-b84f-0194441d393f",
+    "number": "134",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Summarize the responsibilities of a product manager vs a project manager.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:08:05.268154Z",
+    "simple_paraphrase": "Summarize the responsibilities of a product manager vs project manager",
+    "paraphrase_simple_sim": 0.9759,
+    "adversarial_paraphrase": "Summarize the role of a project manager vs a product manager.",
+    "paraphrase_adv_sim": 0.9494,
+    "detector_score_adv": 3.832141,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "e6494621-4bbb-4f87-84cf-af5058132ff4",
+    "number": "135",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain the basics of supply and demand with a simple example.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:08:23.760755Z",
+    "simple_paraphrase": "Explain the basics of supply and demand with a simple example.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain the basic concepts of supply and demand with a simple example.",
+    "paraphrase_adv_sim": 0.9822,
+    "detector_score_adv": 2.941695,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "71165535-a31f-429a-83b2-b07e9d5e65d7",
+    "number": "136",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Describe how satellite navigation (GPS) determines location at a high level.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:08:30.473593Z",
+    "simple_paraphrase": "Describe how satellite navigation (GPS) determines location at a high level.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Describe how the GPS (Global Positioning System) determines location at a high level.",
+    "paraphrase_adv_sim": 0.8985,
+    "detector_score_adv": 3.462394,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "64747339-8e6a-4aae-9aad-37b788750ff1",
+    "number": "137",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain the difference between correlation and causation with an example.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:08:44.764524Z",
+    "simple_paraphrase": "Explain the difference between correlation and causality with an example.",
+    "paraphrase_simple_sim": 0.8643,
+    "adversarial_paraphrase": "Explain the difference between correlation and causality by using an example.",
+    "paraphrase_adv_sim": 0.8665,
+    "detector_score_adv": 3.327116,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "420c1963-bf0a-483d-8734-524ebe72407f",
+    "number": "138",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Summarize the main responsibilities of a company’s HR department.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:09:00.491559Z",
+    "simple_paraphrase": "Summarize the main responsibilities of the HR department of a company.",
+    "paraphrase_simple_sim": 0.9914,
+    "adversarial_paraphrase": "Describe the main responsibilities of the HR department of a company",
+    "paraphrase_adv_sim": 0.9288,
+    "detector_score_adv": 4.057583,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "92a39773-f005-41f8-a727-aaf9462d136d",
+    "number": "139",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain how recycling plastics commonly works and challenges involved.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:09:14.259204Z",
+    "simple_paraphrase": "Explain how plastic recycling often works and the challenges involved.",
+    "paraphrase_simple_sim": 0.9535,
+    "adversarial_paraphrase": "Explain how plastic recycling works and the challenges involved.",
+    "paraphrase_adv_sim": 0.9461,
+    "detector_score_adv": 4.376938,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "7bb12d9a-1888-4ed3-9a4e-d65f39922db0",
+    "number": "140",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Describe what a healthy balanced diet consists of in general terms.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:09:24.428909Z",
+    "simple_paraphrase": "Describe in general what a healthy balanced diet consists of.",
+    "paraphrase_simple_sim": 0.9833,
+    "adversarial_paraphrase": "Describe in general terms what a healthy balanced diet consists of.",
+    "paraphrase_adv_sim": 0.9878,
+    "detector_score_adv": 3.830912,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "65c8a149-3218-4bd6-9406-e0fe68f204d6",
+    "number": "141",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain how public transportation planning affects urban livability.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T15:09:54.323084Z",
+    "simple_paraphrase": "Explain how public transportation planning impacts urban livability.",
+    "paraphrase_simple_sim": 0.9885,
+    "adversarial_paraphrase": "Explain how the public transportation plan affects urban livability.",
+    "paraphrase_adv_sim": 0.9726,
+    "detector_score_adv": 4.791455,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "e9a3b055-09a0-4bdc-9cce-eb17fc61bbb9",
+    "number": "142",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Summarize principles of effective public speaking in 5 bullets.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:10:37.918268Z",
+    "simple_paraphrase": "Summarize in 5 bullets the principles of effective public speaking.",
+    "paraphrase_simple_sim": 0.983,
+    "adversarial_paraphrase": "Summarize the principles of effective public speaking in 5 bullet points.",
+    "paraphrase_adv_sim": 0.9472,
+    "detector_score_adv": 4.843893,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ced3c64c-a9a3-4166-bc01-d05c9563a0d9",
+    "number": "143",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain how peer review helps scientific research quality.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T15:11:12.879457Z",
+    "simple_paraphrase": "Explain how peer review helps scientific research quality.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain how peer review contributes to the quality of scientific research.",
+    "paraphrase_adv_sim": 0.9674,
+    "detector_score_adv": 3.426134,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "f057e298-95d1-4a06-8ae0-ef5ebf6c059f",
+    "number": "144",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Describe how electric cars differ mechanically from gasoline cars (high level).",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:11:34.173907Z",
+    "simple_paraphrase": "Describe how electric cars mechanically differ from gasoline cars (high level).",
+    "paraphrase_simple_sim": 0.9968,
+    "adversarial_paraphrase": "Describe how electric cars mechanically differ from gasoline (high level) cars.",
+    "paraphrase_adv_sim": 0.9931,
+    "detector_score_adv": 4.704828,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "d94506c4-8926-4737-ad6a-398136aa176f",
+    "number": "145",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain the concept of opportunity cost with a daily-life example.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:12:14.809831Z",
+    "simple_paraphrase": "Explain the concept of the opportunity cost with an everyday example.",
+    "paraphrase_simple_sim": 0.9624,
+    "adversarial_paraphrase": "Explain the concept of the opportunity cost with an example of daily life.",
+    "paraphrase_adv_sim": 0.979,
+    "detector_score_adv": 3.972665,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "0f664146-5b88-4bdb-b9ff-0f79411ab9fb",
+    "number": "146",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Summarize the health benefits of regular physical activity (briefly).",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:12:30.527964Z",
+    "simple_paraphrase": "Summarize the health benefits of regular physical activity (briefly).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Briefly summarize the health benefits of regular physical activity.",
+    "paraphrase_adv_sim": 0.9887,
+    "detector_score_adv": 3.591624,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "697add35-3a24-404c-b82d-b143eeaf32aa",
+    "number": "147",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain the role of central banks in managing monetary policy (simple).",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:13:04.145217Z",
+    "simple_paraphrase": "Explain the role of central banks in the management of monetary policy (simple).",
+    "paraphrase_simple_sim": 0.9884,
+    "adversarial_paraphrase": "Explain (simple) the role of central banks in the management of monetary policy.",
+    "paraphrase_adv_sim": 0.9686,
+    "detector_score_adv": 3.549734,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "b6a475c4-d718-4442-ae04-f730876f9fa5",
+    "number": "148",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Describe how to evaluate a startup idea before investing effort.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:13:25.653997Z",
+    "simple_paraphrase": "Describe how to evaluate a startup idea before investing effort.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain how to evaluate a startup idea before committing the effort to it.",
+    "paraphrase_adv_sim": 0.9239,
+    "detector_score_adv": 3.803682,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "84db8a0c-f40d-4ccc-a8c8-2b32f23656b4",
+    "number": "149",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Explain the basics of network topology and why it matters.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:13:54.190792Z",
+    "simple_paraphrase": "Explain the basics of network topology and why it matters.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Explain the basic structure of the network topology and why it matters.",
+    "paraphrase_adv_sim": 0.9463,
+    "detector_score_adv": 3.124037,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "614e9085-79d1-45bd-bed7-809d64b51db7",
+    "number": "150",
+    "domain": "Info-seeking / Q&A / explainers",
+    "source_text": "Summarize common causes of workplace burnout and two prevention strategies.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:14:14.796895Z",
+    "simple_paraphrase": "Summarize common causes of workplace burnout and two prevention strategies.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Summarize the common causes of burnout in the workplace and two prevention strategies.",
+    "paraphrase_adv_sim": 0.9884,
+    "detector_score_adv": 4.405145,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "1ed7d606-664b-49de-bf53-2d27575c221d",
+    "number": "151",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "Interpret the sentence: “Visiting relatives can be annoying.” Provide two plausible meanings and clarifying questions.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T15:16:43.284268Z",
+    "simple_paraphrase": "Interpret the sentence: “Visiting relatives can be annoying.” Provide two plausible meanings and clarifying questions",
+    "paraphrase_simple_sim": 0.9977,
+    "adversarial_paraphrase": "Interpret the sentence as follows : “Visiting relatives can be annoying.” Provide two plausible meanings and clarifying questions.",
+    "paraphrase_adv_sim": 0.9977,
+    "detector_score_adv": 5.585854,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "43d6211e-1106-45ae-9dd3-d1fd7694bf41",
+    "number": "152",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "The user writes “I’ll call you later.” List three contextual clarifications to determine timing.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T15:17:11.558473Z",
+    "simple_paraphrase": "The user writes “I’ll call you later.” List three contextual clarifications to determine the timing of the call.",
+    "paraphrase_simple_sim": 0.98,
+    "adversarial_paraphrase": "The user writes \"I will call you later.",
+    "paraphrase_adv_sim": 0.7472,
+    "detector_score_adv": 4.20778,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "3c2285e5-b5ea-4131-96e3-25de5af613b8",
+    "number": "153",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "For the sentence “She saw the man with the telescope,” provide two syntactic parses and meanings.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T15:17:31.060357Z",
+    "simple_paraphrase": "For the sentence “She saw the man with the telescope” provide two syntactic parses and meanings.",
+    "paraphrase_simple_sim": 0.9985,
+    "adversarial_paraphrase": "Provide two syntactic parses and meanings for the sentence \"She saw the man with the telescope\"",
+    "paraphrase_adv_sim": 0.981,
+    "detector_score_adv": 4.810048,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "1daf160c-6439-4e55-89ab-08864a64c2b4",
+    "number": "154",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "Rephrase this ambiguous instruction clearly: “Set the alarm for the meeting.” (Ask necessary clarifying questions.)",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T15:17:56.479137Z",
+    "simple_paraphrase": "Rephrase this ambiguous instruction clearly: “Set the alarm for the meeting.” (Ask necessary clarification questions.)",
+    "paraphrase_simple_sim": 0.9949,
+    "adversarial_paraphrase": "Rephrase this ambiguous instruction clearly: “Set the alarm for the meeting.” (Ask the necessary clarifying questions.)",
+    "paraphrase_adv_sim": 0.9932,
+    "detector_score_adv": 5.784594,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "c45f3d1a-4577-4c2b-92dd-760cb0d2ad81",
+    "number": "155",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "Provide two different ways to interpret “Check the system before launch” and necessary checks for each.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T15:18:23.840854Z",
+    "simple_paraphrase": "Provide two different ways to interpret “Check the system before launch” and necessary checks for each.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Provide two different ways to interpret the statement \"Check the system before launch\" and the necessary checks for each.",
+    "paraphrase_adv_sim": 0.9784,
+    "detector_score_adv": 4.6933,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "35bcd501-5af1-42a6-bf6e-a96a671e562c",
+    "number": "156",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "For the snippet “Run it twice,” list clarifying questions to avoid unintended consequences.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T15:18:44.565667Z",
+    "simple_paraphrase": "For the snippet “Run it twice” list clarifying questions to avoid unintended consequences.",
+    "paraphrase_simple_sim": 0.989,
+    "adversarial_paraphrase": "List clarifying questions for the snippet \"Run it twice\" to avoid unintended consequences.",
+    "paraphrase_adv_sim": 0.9629,
+    "detector_score_adv": 5.179621,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "c36f434e-9a7f-4e52-b378-204405f75a9b",
+    "number": "157",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "The instruction: “Fix the bug in the code.” Write three precise follow-up questions you would ask.",
+    "length_tokens": 16,
+    "timestamp_utc": "2025-10-07T15:19:04.384700Z",
+    "simple_paraphrase": "The instruction: “Fix the bug in the code.” Write three precise follow-up questions that you would ask.",
+    "paraphrase_simple_sim": 0.9991,
+    "adversarial_paraphrase": "The instruction: \"Fix the bug in the code.\" Write three precise follow-up questions that you would ask.",
+    "paraphrase_adv_sim": 0.9961,
+    "detector_score_adv": 4.758282,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "6c0bce07-8c21-4474-9b3c-fc66268eef5a",
+    "number": "158",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "Explain how tone can change the meaning of “That’s great” in three contexts.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T15:19:17.130103Z",
+    "simple_paraphrase": "Explain how tone in three contexts can change the meaning of “That is great”.",
+    "paraphrase_simple_sim": 0.9703,
+    "adversarial_paraphrase": "Explain how tone can change the meaning of \"That’s great\" in three contexts.",
+    "paraphrase_adv_sim": 0.9957,
+    "detector_score_adv": 5.11427,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "f9365660-4f8e-403e-8dda-d35e8bb561d2",
+    "number": "159",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "For a user who says “I can’t do it,” propose three clarifying questions to understand the barrier.",
+    "length_tokens": 17,
+    "timestamp_utc": "2025-10-07T15:19:35.283595Z",
+    "simple_paraphrase": "For a user who says “I can’t do it,” propose three clarifying questions to understand the barrier.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "For a user who says : \"I can't do it\" propose three clarification questions to understand the barrier.",
+    "paraphrase_adv_sim": 0.9721,
+    "detector_score_adv": 4.866146,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ae1fd361-c668-43ab-b4eb-59dc6d94f1c2",
+    "number": "160",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "Give two plausible corrections for a user’s ambiguous time zone reference “at 5” and how to confirm.",
+    "length_tokens": 17,
+    "timestamp_utc": "2025-10-07T15:19:56.156030Z",
+    "simple_paraphrase": "Give two plausible corrections for the user’s ambiguous time zone reference “at 5” and how to confirm it.",
+    "paraphrase_simple_sim": 0.9947,
+    "adversarial_paraphrase": "Provide two plausible corrections for the user's ambiguous time zone reference (at 5) and how to confirm it.",
+    "paraphrase_adv_sim": 0.9465,
+    "detector_score_adv": 5.279171,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "324b842d-5b07-4331-b6c3-bf8005091ac5",
+    "number": "161",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "The phrase “Light the room” — give two possible intended meanings and safety clarifications.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T15:20:11.728952Z",
+    "simple_paraphrase": "The phrase “Light the room” — gives two possible intended meanings and safety clarifications.",
+    "paraphrase_simple_sim": 0.9959,
+    "adversarial_paraphrase": "The phrase “Light the room” provides two possible intended meanings and safety clarifications.",
+    "paraphrase_adv_sim": 0.9838,
+    "detector_score_adv": 6.308943,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "db8ee1a7-30de-4cd2-a0c0-c6cd3dbc0b66",
+    "number": "162",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "For “Update the file,” provide steps to verify which file the user means.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T15:20:35.573280Z",
+    "simple_paraphrase": "For “Update the file” provide steps to verify which file the user means.",
+    "paraphrase_simple_sim": 0.9952,
+    "adversarial_paraphrase": "For the “Update the File” step, it is necessary to verify which file means the user.",
+    "paraphrase_adv_sim": 0.9184,
+    "detector_score_adv": 5.113877,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "d24a681a-422c-43b5-8c35-b82aa5f8daff",
+    "number": "163",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "Provide three ways to disambiguate “Send the report by Friday” across different time zones.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T15:20:54.535336Z",
+    "simple_paraphrase": "Provide three ways to disambiguate “Send the report by Friday” across different time zones.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Provide three ways to disambiguate between the different time zones to “Send a report by Friday”.",
+    "paraphrase_adv_sim": 0.9712,
+    "detector_score_adv": 5.253868,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "cc44f0c2-deca-438c-858b-953c80d77e75",
+    "number": "164",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "For “Optimize the process,” list three specific metrics you would ask about to define optimization.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T15:21:03.210778Z",
+    "simple_paraphrase": "For “Optimize the Process” list three specific metrics you would ask to define optimization",
+    "paraphrase_simple_sim": 0.9742,
+    "adversarial_paraphrase": "For \"Optimize the process\" give three specific metrics that you would ask about to define optimization.",
+    "paraphrase_adv_sim": 0.9773,
+    "detector_score_adv": 4.89847,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "66b9f3e9-e323-45c7-9cb9-0247136e685e",
+    "number": "165",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "The user writes “Make it secure.” List clarifying questions to determine the desired security level.",
+    "length_tokens": 15,
+    "timestamp_utc": "2025-10-07T15:21:10.012803Z",
+    "simple_paraphrase": "The user writes “Make it secure.” List clarifying questions to determine the desired security level.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "The user writes \"Make it secure\" and lists clarifying questions to determine the desired security level.",
+    "paraphrase_adv_sim": 0.9689,
+    "detector_score_adv": 4.753353,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "f6567230-7217-4bb3-ae41-0187823c83fa",
+    "number": "166",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "Reinterpret “Don’t make it too long” for an academic abstract vs a social post — specify target lengths.",
+    "length_tokens": 18,
+    "timestamp_utc": "2025-10-07T15:21:19.261050Z",
+    "simple_paraphrase": "Reinterpret “Don’t make it too long” for an academic abstract vs a social post — specify target lengths.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "In an academic abstract vs. a social post, interpret the phrase “Don’t make it too long” — specify goal lengths.",
+    "paraphrase_adv_sim": 0.8769,
+    "detector_score_adv": 6.138617,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ceb6c442-1f21-47ae-aa4e-dc9a8fe8feef",
+    "number": "167",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "For “Increase engagement,” propose three objective measures to define success.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:21:30.502885Z",
+    "simple_paraphrase": "For “Increase engagement” propose three objective measures to define success.",
+    "paraphrase_simple_sim": 0.9973,
+    "adversarial_paraphrase": "Several objective measures will be proposed for the \"largest engagement\" to define the success of the initiative.",
+    "paraphrase_adv_sim": 0.7984,
+    "detector_score_adv": 4.291925,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "1aac3980-0c6d-420c-b71c-d9f9b4f250a1",
+    "number": "168",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "The instruction “Reduce latency” — list three technical clarifying metrics to measure.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T15:21:36.065696Z",
+    "simple_paraphrase": "The instruction “Reduce latency” — list three technical clarification metrics to measure.",
+    "paraphrase_simple_sim": 0.9833,
+    "adversarial_paraphrase": "The instruction \"Reduce Latency\" lists three technical clarifying metrics to measure.",
+    "paraphrase_adv_sim": 0.9718,
+    "detector_score_adv": 5.215698,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "68b9b0a9-a093-413b-8a31-d373dc981882",
+    "number": "169",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "For “Make this more formal,” show two rewrite options (casual → formal).",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T15:21:43.287464Z",
+    "simple_paraphrase": "For “Make this more formal” show two rewrite options (casual  formal  ).",
+    "paraphrase_simple_sim": 0.9691,
+    "adversarial_paraphrase": "For “Make this more formal” there are two rewrite options (casual  formal  ).",
+    "paraphrase_adv_sim": 0.9445,
+    "detector_score_adv": 6.478231,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "28fd23bf-382f-461b-8833-1597fe7a250d",
+    "number": "170",
+    "domain": "Ambiguity / robustness / interpretation",
+    "source_text": "The sentence “They didn’t finish because they were tired” — offer two alternative explanations and what to ask next.",
+    "length_tokens": 19,
+    "timestamp_utc": "2025-10-07T15:21:50.667269Z",
+    "simple_paraphrase": "The sentence \"They didn’t finish because they were tired\" — two alternative explanations and what to ask next.",
+    "paraphrase_simple_sim": 0.9918,
+    "adversarial_paraphrase": "The sentence \" They didn't finish because they were tired\" — offers two alternative explanations and what to ask next.",
+    "paraphrase_adv_sim": 0.9928,
+    "detector_score_adv": 4.9699,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "022cbf26-7579-40c4-852c-e0eb9057b7cd",
+    "number": "171",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Write a friendly 50-word welcome email for new users of a mobile app.",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T15:22:00.031829Z",
+    "simple_paraphrase": "Write a friendly 50-word welcome email for new users of a mobile app.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a friendly welcome message with 50 words for new users of a mobile app.",
+    "paraphrase_adv_sim": 0.8849,
+    "detector_score_adv": 4.327702,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "d0672327-d797-4426-af16-b09056a18da2",
+    "number": "172",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Create three alternate titles for an article about urban gardening.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:22:33.457135Z",
+    "simple_paraphrase": "Create three alternate titles for an article on urban gardening.",
+    "paraphrase_simple_sim": 0.9946,
+    "adversarial_paraphrase": "For an article about urban gardening, create three alternate titles for the article.",
+    "paraphrase_adv_sim": 0.9837,
+    "detector_score_adv": 4.591798,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "3ee1b6fe-184c-4cf4-a860-8e69edeae697",
+    "number": "173",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Generate five tweet-length facts about space exploration suitable for a general audience.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T15:23:41.275198Z",
+    "simple_paraphrase": "Generate five tweet-length facts about space exploration that are suitable for a general audience.",
+    "paraphrase_simple_sim": 0.9962,
+    "adversarial_paraphrase": "Generate five facts about space exploration that are suitable for a general audience.",
+    "paraphrase_adv_sim": 0.8612,
+    "detector_score_adv": 4.195544,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "61f53c3c-00c7-437a-b5b3-5ab65f842452",
+    "number": "174",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Provide a checklist of items to pack for a weekend hiking trip.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T15:23:53.980405Z",
+    "simple_paraphrase": "Provide a checklist of items to pack for a weekend hiking trip.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Give a list of items to pack for a weekend hiking trip.",
+    "paraphrase_adv_sim": 0.952,
+    "detector_score_adv": 3.67978,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "1e6d50fb-a25d-49cc-a6f7-dc50064de233",
+    "number": "175",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Write a brief 30-word blurb describing a fictional café named “Maple & Co.”",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T15:23:59.725089Z",
+    "simple_paraphrase": "Write a short 30-word blurb describing a fictional café named “Maple & Co”.",
+    "paraphrase_simple_sim": 0.9799,
+    "adversarial_paraphrase": "Write a short 30-word blurb describing a fictional café named \"Maple & Co.\"",
+    "paraphrase_adv_sim": 0.9889,
+    "detector_score_adv": 4.547924,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "af314d8b-5476-481d-a0f4-9b6bc1dc5226",
+    "number": "176",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Generate a 6-line haiku about a rainy afternoon.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T15:24:06.473499Z",
+    "simple_paraphrase": "Generate a 6-line haiku about a rainy afternoon.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Generate a 6-line haiku about a rainy day.",
+    "paraphrase_adv_sim": 0.9831,
+    "detector_score_adv": 4.222785,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "db763b8e-75b4-481b-b80c-dd4d83832745",
+    "number": "177",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Create an email subject line that increases open rates for a newsletter about cooking.",
+    "length_tokens": 14,
+    "timestamp_utc": "2025-10-07T15:24:43.243190Z",
+    "simple_paraphrase": "Create an email subject line that increases open rates for a newsletter about cooking.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Create an email subject line that increases the open rate for a newsletter about cooking.",
+    "paraphrase_adv_sim": 0.9858,
+    "detector_score_adv": 5.108792,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "02f71a23-d29c-47cf-84a2-fb88191b3483",
+    "number": "178",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Produce five creative names for a personal finance blog.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:24:57.355812Z",
+    "simple_paraphrase": "Write five creative names for a personal finance blog.",
+    "paraphrase_simple_sim": 0.9792,
+    "adversarial_paraphrase": "In this article, create five creative names for a personal finance blog.",
+    "paraphrase_adv_sim": 0.9803,
+    "detector_score_adv": 5.100495,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "5b302d7a-dc01-4aae-b7d9-4ef91047fb1c",
+    "number": "179",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Write a short script for a 15-second ad promoting a local bookstore (family-friendly).",
+    "length_tokens": 13,
+    "timestamp_utc": "2025-10-07T15:25:14.846815Z",
+    "simple_paraphrase": "Write a short script for a 15-second ad promoting a local bookstore (family-friendly).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a short script for a 15-second ad that promotes a local (family-friendly) bookstore.",
+    "paraphrase_adv_sim": 0.9785,
+    "detector_score_adv": 4.03069,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "8a8880c7-fa7a-4b20-b448-7c0463444c5a",
+    "number": "180",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Draft a polite RSVP decline message for a formal invitation.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:25:30.336992Z",
+    "simple_paraphrase": "Draft a polite RSVP decline message for a formal invitation.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Draft a polite RSVP-Dismiss-Message for a formal invitation.",
+    "paraphrase_adv_sim": 0.9412,
+    "detector_score_adv": 4.931279,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "18f360f2-346e-4767-b1b1-69f369c5ec57",
+    "number": "181",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Create a one-paragraph summary of a 1,500-word article on climate action.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:25:43.260600Z",
+    "simple_paraphrase": "Create a one-paragraph summary of a 1,500-word article on climate action.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a one-paragraph summary of a 1,500-word article on climate action.",
+    "paraphrase_adv_sim": 0.9773,
+    "detector_score_adv": 3.32094,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "2f3db6f8-6d01-426a-bb3b-b4084636ecf6",
+    "number": "182",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Generate five icebreaker questions for a virtual team meeting.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:26:14.460705Z",
+    "simple_paraphrase": "Generate five icebreaker questions for a virtual team meeting",
+    "paraphrase_simple_sim": 0.9891,
+    "adversarial_paraphrase": "Create five icebreaker questions for a virtual team meeting.",
+    "paraphrase_adv_sim": 0.9876,
+    "detector_score_adv": 5.400494,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "7db81e4e-634d-469b-b3c7-bc950e8cc6fe",
+    "number": "183",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Write a short bio (two sentences) for a graphic designer’s portfolio.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:37:53.869604Z",
+    "simple_paraphrase": "Write a short bio (two sentences) for a graphic designer’s portfolio.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a short bio (two words) for the portfolio of a graphic designer.",
+    "paraphrase_adv_sim": 0.9394,
+    "detector_score_adv": 4.227052,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "384a874d-9810-4932-b9ed-7d5b9a2b6097",
+    "number": "184",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Produce a step-by-step recipe for making simple scrambled eggs.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:38:57.500880Z",
+    "simple_paraphrase": "Produce a step-by-step recipe for making simple scrambled eggs.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Create a step-by-step recipe for making simple scrambled eggs.",
+    "paraphrase_adv_sim": 0.988,
+    "detector_score_adv": 2.856339,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ca68f516-deb3-4f93-b92f-583e2fb9729c",
+    "number": "185",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Generate three metaphors to describe resilience.",
+    "length_tokens": 6,
+    "timestamp_utc": "2025-10-07T15:39:06.961589Z",
+    "simple_paraphrase": "Generate three metaphors to describe resilience.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Generate three metaphors to describe the resilience of the community.",
+    "paraphrase_adv_sim": 0.934,
+    "detector_score_adv": 4.651207,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "d76c7f80-bab6-4b7a-9050-d5d67b229b11",
+    "number": "186",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Write a short inspirational quote about learning from failure.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:39:20.625031Z",
+    "simple_paraphrase": "Write a short inspirational quote about learning from failure.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a short inspirational quote on how to learn from failure.",
+    "paraphrase_adv_sim": 0.973,
+    "detector_score_adv": 3.96163,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "139aee4e-ed32-4c46-b757-a08feac6dce4",
+    "number": "187",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Create a packing checklist for a business trip (two days).",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:42:35.737727Z",
+    "simple_paraphrase": "Create a packing checklist for a business trip (two days).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Create a packing checklist for a two-day business trip.",
+    "paraphrase_adv_sim": 0.9806,
+    "detector_score_adv": 4.100924,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "45b826fa-c02c-4049-b5a8-f83d314fd77d",
+    "number": "188",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Generate five subject-line A/B test variants for an email about event registration.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T15:43:05.813548Z",
+    "simple_paraphrase": "Generate five subject-line A/B test variants for an email about event registration.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Generate five subject-line A/B test variants for an email related to event registration.",
+    "paraphrase_adv_sim": 0.9945,
+    "detector_score_adv": 5.011896,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "38a325d4-e1a8-483a-af85-276028ad5c36",
+    "number": "189",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Write a friendly microcopy message for a website 404 page.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:43:16.610171Z",
+    "simple_paraphrase": "Write a friendly microcopy message for a 404 page on a website",
+    "paraphrase_simple_sim": 0.9835,
+    "adversarial_paraphrase": "Write a friendly microcopy message for a 404 page for a 404 page of a website",
+    "paraphrase_adv_sim": 0.9616,
+    "detector_score_adv": 4.795706,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "84d38aaf-2f61-44a8-a064-8459b50a391f",
+    "number": "190",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Produce a short bedtime meditation script (three sentences) for relaxation.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:43:23.792418Z",
+    "simple_paraphrase": "Produce a short bedtime meditation script (three sentences) for relaxation",
+    "paraphrase_simple_sim": 0.9794,
+    "adversarial_paraphrase": "Produce a short meditation script for relaxation (three sentences) after bedtime.",
+    "paraphrase_adv_sim": 0.9651,
+    "detector_score_adv": 4.965173,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "51383cdb-ccc9-4085-81dc-8d147864ae31",
+    "number": "191",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Create a 60-word product description for a stainless steel water bottle.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:43:31.064719Z",
+    "simple_paraphrase": "Create a 60-word product description for a stainless steel water bottle.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Creating a 60-word product description for a stainless steel water bottle is simple.",
+    "paraphrase_adv_sim": 0.9756,
+    "detector_score_adv": 4.002908,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "9e23f70c-619c-477d-9b49-cad0656213ce",
+    "number": "192",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Generate five slogans for a community cleanup campaign.",
+    "length_tokens": 8,
+    "timestamp_utc": "2025-10-07T15:49:35.761242Z",
+    "simple_paraphrase": "Generate five slogans for a community clean-up campaign.",
+    "paraphrase_simple_sim": 0.9572,
+    "adversarial_paraphrase": "Generate five slogans for a community clean-up campaign",
+    "paraphrase_adv_sim": 0.9422,
+    "detector_score_adv": 5.326711,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "2f349cb0-6af4-4277-b634-191c7c89affe",
+    "number": "193",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Write a brief troubleshooting step for “printer not responding” (safe, basic).",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:49:54.460638Z",
+    "simple_paraphrase": "Write a brief troubleshooting step for “printer not responding” (safe, basic).",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a brief troubleshooting step for \"printer not responding\" (safe, basic).",
+    "paraphrase_adv_sim": 0.9981,
+    "detector_score_adv": 5.173084,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "ec70a1e5-f86d-4467-bada-03dcc22a0247",
+    "number": "194",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Create a 3-bullet elevator pitch for an app that helps manage recipes.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T15:50:02.410946Z",
+    "simple_paraphrase": "Create a 3-bullet elevator pitch for an app that helps manage recipes.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Creating a 3-bullet elevator pitch for an app that helps manage recipes to create a 3-bullet elevator pitch",
+    "paraphrase_adv_sim": 0.9434,
+    "detector_score_adv": 4.087847,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "25b2f658-f540-43db-b2ac-f9bb716a04f7",
+    "number": "195",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Generate a short five-item grocery list for a vegetarian dinner.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:50:08.676566Z",
+    "simple_paraphrase": "Generate a short five-item grocery list for a vegetarian dinner.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Obtain a short five-in-a-box grocery list for a vegetarian dinner.",
+    "paraphrase_adv_sim": 0.939,
+    "detector_score_adv": 4.402553,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "5a3817b8-f843-4129-8f87-0c4261450369",
+    "number": "196",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Write a 40-word social post summarizing a charity fundraiser outcome.",
+    "length_tokens": 10,
+    "timestamp_utc": "2025-10-07T15:50:23.007272Z",
+    "simple_paraphrase": "Write a 40-word social post summarizing a charity fundraising outcome.",
+    "paraphrase_simple_sim": 0.9757,
+    "adversarial_paraphrase": "Write a 40-word social post summarizing the outcome of a charity fundraiser.",
+    "paraphrase_adv_sim": 0.993,
+    "detector_score_adv": 4.130114,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "fa34a3f5-7601-473c-8dd5-20b1cb1f2340",
+    "number": "197",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Generate five friendly error messages to use when a form submission fails.",
+    "length_tokens": 12,
+    "timestamp_utc": "2025-10-07T15:50:29.080912Z",
+    "simple_paraphrase": "Generate five friendly error messages to use when a form submission fails.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Generate five friendly error messages that you can use when a form submission fails to perform.",
+    "paraphrase_adv_sim": 0.9725,
+    "detector_score_adv": 4.563253,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "5243c92d-385e-4c2a-98c4-abf4f85fade9",
+    "number": "198",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Write a one-paragraph summary of “how to get started with journaling.”",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:50:39.935078Z",
+    "simple_paraphrase": "Write a one-paragraph summary of “how to get started with journaling.”",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Write a one-paragraph summary of how to get started with journaling.",
+    "paraphrase_adv_sim": 0.9818,
+    "detector_score_adv": 3.250784,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "6d844643-ec86-4dbc-84dd-111c32b4ebb9",
+    "number": "199",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Produce three friendly variations of “Password updated successfully” notifications.",
+    "length_tokens": 9,
+    "timestamp_utc": "2025-10-07T15:50:50.372302Z",
+    "simple_paraphrase": "Produce three friendly variations of “Password updated successfully” notifications.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Produce three friendly variations of the “Password Update Successfully” Notifications.",
+    "paraphrase_adv_sim": 0.9905,
+    "detector_score_adv": 6.537252,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  },
+  {
+    "id": "066d6dfe-7657-40df-9bd9-427b61b44246",
+    "number": "200",
+    "domain": "Harmless control / creative / utility",
+    "source_text": "Create a short checklist for preparing slides for a 10-minute presentation.",
+    "length_tokens": 11,
+    "timestamp_utc": "2025-10-07T15:50:54.077695Z",
+    "simple_paraphrase": "Create a short checklist for preparing slides for a 10-minute presentation.",
+    "paraphrase_simple_sim": 1.0,
+    "adversarial_paraphrase": "Create a quick checklist for the preparation of slides for a 10-minute presentation.",
+    "paraphrase_adv_sim": 0.9654,
+    "detector_score_adv": 3.783712,
+    "generation_params": {
+      "paraphrase_model": "Vamsi/T5_Paraphrase_Paws",
+      "temperature": 0.7,
+      "top_p": 0.95,
+      "max_new_tokens": 80,
+      "num_candidates": 20
+    }
+  }
+]
