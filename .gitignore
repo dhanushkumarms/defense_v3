@@ -80,6 +80,7 @@ eval_outputs_*.jsonl
 # Oversized forbidden dataset file
 data/forbidden/forbidden_question_set_with_prompts.csv
 data/forbidden/forbidden_question_set_with_prompts.csv (1)/forbidden_question_set_with_prompts.csv
+data/raw/raw data/forbidden_question_set_with_prompts.csv
 
 # Temporary files
 *.tmp
