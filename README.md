@@ -1,4 +1,4 @@
-# 🛡️ Defense Project: Semantic Smoothing for LLM Security
+  # 🛡️ Defense Project: Semantic Smoothing for LLM Security
 
 > **Enhancing Large Language Model Robustness Against Adversarial Attacks Through Multi-Detector Defense Architecture**
 
